@@ -2,9 +2,7 @@
   <img src="https://summitcables.github.io/logo.png">
 </p>
 
-||
-|:--:|
-|### [Ordering Form / Opens 10:00 AM PT / 11-9-19](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform)|
+### [Ordering Form / Opens 10:00 AM PT / 11-9-19](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform)
 
 # About Us
 Hi, welcome to the Summit Catalog v2!
