@@ -1,3 +1,13 @@
+<p style="text-align: center;">
+![](logo.png)
+
+&nbsp;
+
+### [Ordering Form / Opens 10:00AM PT / 11-9-19](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform)
+</p>
+
+&nbsp;
+
 # About Us
 Hi, welcome to the Summit Catalog v2!
 
@@ -9,11 +19,11 @@ Thanks!
 -Chris
 
 # Contact Us
-* Email: support@summitcables.com
-* Instagram: https://instagram.com/summitcables
-* Twitter: https://twitter.com/summitcables
-* Reddit: https://reddit.com/u/kbnote
-* Discord: https://discord.gg/summitcables
+* Email: [support@summitcables.com](mailto:support@summitcables.com)
+* Instagram: [https://instagram.com/summitcables](https://instagram.com/summitcables)
+* Twitter: [https://twitter.com/summitcables](https://twitter.com/summitcables)
+* Reddit: [https://reddit.com/u/kbnote](https://reddit.com/u/kbnote)
+* Discord: [https://discord.gg/summitcables](https://discord.gg/summitcables)
 
 # Group Buy Schedule
 We are currently using a Google Form which opens up every Saturday at 10:00AM PT (https://time.is/PT) located at [this link to the ordering form](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform).
