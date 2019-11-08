@@ -84,7 +84,7 @@ We will be updating this list from time to time, so be on the lookout!
 
 **Information:** These strips of color will go on the ends of connectors and between aviator connectors. Also used in accents.
 
-| ![](heatshrink/black.png)   Black   | ![](heatshrink/blue.png)   Blue                 | ![](heatshrink/brown.png)   Brown | ![](heatshrink/burnt-orange.jpg)   Burnt Orange |
+| ![](heatshrink/black.png)   Black   | ![](heatshrink/blue.png)   Blue                 | ![](heatshrink/brown.png)   Brown | ![](heatshrink/burnt-orange.png)   Burnt Orange |
 |-----------------------------------|-----------------------------------------------|---------------------------------|-----------------------------------------------|
 | ![](TBA.png)   Clear               | ![](heatshrink/forest-green.png)   Forest Green | ![](heatshrink/gray.png)   Gray   | ![](heatshrink/green.png)   Green               |
 | ![](heatshrink/orange.png)   Orange | ![](heatshrink/purple.png)   Purple             | ![](heatshrink/red.png)   Red     | ![](heatshrink/white.png)   White               |
@@ -162,7 +162,7 @@ All colored detachables are unique to and only obtainable through Summitcables.
 
 **Information:** Accents are colored stripes made out of heatshrink that are attached onto your detachable.
 
-| ![](heatshrink/black.png)   Black   | ![](heatshrink/blue.png)   Blue                 | ![](heatshrink/brown.png)   Brown | ![](heatshrink/burnt-orange.jpg)   Burnt Orange |
+| ![](heatshrink/black.png)   Black   | ![](heatshrink/blue.png)   Blue                 | ![](heatshrink/brown.png)   Brown | ![](heatshrink/burnt-orange.png)   Burnt Orange |
 |-----------------------------------|-----------------------------------------------|---------------------------------|-----------------------------------------------|
 | ![](TBA.png)   Clear               | ![](heatshrink/forest-green.png)   Forest Green | ![](heatshrink/gray.png)   Gray   | ![](heatshrink/green.png)   Green               |
 | ![](heatshrink/orange.png)   Orange | ![](heatshrink/purple.png)   Purple             | ![](heatshrink/red.png)   Red     | ![](heatshrink/white.png)   White               |
@@ -172,11 +172,11 @@ All colored detachables are unique to and only obtainable through Summitcables.
 ---
 **Price:**
 
-| ![](heatshrink/black.png)   Black   | ![](heatshrink/blue.png)   Blue                 | ![](heatshrink/brown.png)   Brown | ![](heatshrink/burnt-orange.jpg)   Burnt Orange |
-|-----------------------------------|-----------------------------------------------|---------------------------------|-----------------------------------------------|
-| ![](TBA.png)   Clear               | ![](heatshrink/forest-green.png)   Forest Green | ![](heatshrink/gray.png)   Gray   | ![](heatshrink/green.png)   Green               |
-| ![](heatshrink/orange.png)   Orange | ![](heatshrink/purple.png)   Purple             | ![](heatshrink/red.png)   Red     | ![](heatshrink/white.png)   White               |
-| ![](heatshrink/yellow.png)   Yellow |                                               |                                 |                                               |
+| Shipping:        | USPS First Class | USPS First Class (>8oz) |
+|------------------|------------------|-------------------------|
+| USA, Puerto Rico | $3.79            | $4.00                   |
+| Canada           | $10.00           | $10.00                  |
+| International    | $14.00           | $22.50                  |
 
 Extra ends cover 5in of wire and paracord, heatshrink, regular connector, and female detachable.
 
