@@ -86,7 +86,7 @@ We will be updating this list from time to time, so be on the lookout!
 
 | ![](heatshrink/black.png)   Black   | ![](heatshrink/blue.png)   Blue                 | ![](heatshrink/brown.png)   Brown | ![](heatshrink/burnt-orange.png)   Burnt Orange |
 |-----------------------------------|-----------------------------------------------|---------------------------------|-----------------------------------------------|
-| ![](TBA.png)   Clear               | ![](heatshrink/forest-green.png)   Forest Green | ![](heatshrink/gray.png)   Gray   | ![](heatshrink/green.png)   Green               |
+| ![](heatshrink/clear.png)   Clear               | ![](heatshrink/forest-green.png)   Forest Green | ![](heatshrink/gray.png)   Gray   | ![](heatshrink/green.png)   Green               |
 | ![](heatshrink/orange.png)   Orange | ![](heatshrink/purple.png)   Purple             | ![](heatshrink/red.png)   Red     | ![](heatshrink/white.png)   White               |
 | ![](heatshrink/yellow.png)   Yellow |                                               |                                 |                                               |
 
@@ -164,7 +164,7 @@ All colored detachables are unique to and only obtainable through Summitcables.
 
 | ![](heatshrink/black.png)   Black   | ![](heatshrink/blue.png)   Blue                 | ![](heatshrink/brown.png)   Brown | ![](heatshrink/burnt-orange.png)   Burnt Orange |
 |-----------------------------------|-----------------------------------------------|---------------------------------|-----------------------------------------------|
-| ![](TBA.png)   Clear               | ![](heatshrink/forest-green.png)   Forest Green | ![](heatshrink/gray.png)   Gray   | ![](heatshrink/green.png)   Green               |
+| ![](heatshrink/clear.png)   Clear               | ![](heatshrink/forest-green.png)   Forest Green | ![](heatshrink/gray.png)   Gray   | ![](heatshrink/green.png)   Green               |
 | ![](heatshrink/orange.png)   Orange | ![](heatshrink/purple.png)   Purple             | ![](heatshrink/red.png)   Red     | ![](heatshrink/white.png)   White               |
 | ![](heatshrink/yellow.png)   Yellow |                                               |                                 |                                               |
 
