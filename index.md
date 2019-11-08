@@ -50,20 +50,20 @@ Keep in mind that all times are subject to change. In the event of a change, I w
 
 We will be updating this list from time to time, so be on the lookout!
 
-| [](paracord/aloha.jpg)   Aloha                     | [](paracord/apocalypse.jpg)   Apocalypse                     | [](paracord/banana.jpg)   Banana                                 | [](paracord/black.jpg)   Black                                     | [](paracord/black-widow.jpg)   Black Widow                             |
+| ![](paracord/aloha.jpg)   Aloha                     | ![](paracord/apocalypse.jpg)   Apocalypse                     | ![](paracord/banana.jpg)   Banana                                 | ![](paracord/black.jpg)   Black                                     | ![](paracord/black-widow.jpg)   Black Widow                             |
 |-----------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------|
-| [](paracord/blue-baby.jpg)   Baby Blue             | [](paracord/blue-blend.jpg)   Blue Blend                     | [](paracord/blue-carribean.jpg)   Blue Carribean                 | [](paracord/blue-electric.jpg)   Blue Electric                     | [](paracord/blue-lite-carolina.jpg)   Blue Lite Carolina               |
-| [](paracord/blue-midnight.jpg)   Blue Midnight     | [](paracord/blue-royal.jpg)   Blue Royal                     | [](paracord/blue-snake.jpg)   Blue Snake                         | [](paracord/breast-cancer-awareness.jpg)   Breast Cancer Awareness | [](paracord/brown-chocolate-espresso.jpg)   Brown Chocolate (Espresso) |
-| [](paracord/camo-deep-woods.jpg)   Camo Deep Woods | [](paracord/canary-yellow.jpg)   Canary Yellow               | [](paracord/canis.jpg)   Canis                                   | [](paracord/chill.jpg)   Chill                                     | [](paracord/cotton-candy.jpg)   Cotton Candy                           |
-| [](paracord/country-girl.jpg)   Country Girl       | [](paracord/coyote-brown.jpg)   Coyote Brown                 | [](paracord/cream.jpg)   Cream                                   | [](paracord/decay.jpg)   Decay                                     | [](paracord/explode.jpg)   Explode                                     |
-| [](paracord/fireball.jpg)   Fireball               | [](paracord/gecko.jpg)   Gecko                               | [](paracord/gray.jpg)   Gray                                     | [](paracord/home-town-hero.jpg)   Home Town Hero                   | [](paracord/infiltrate.jpg)   Infiltrate                               |
-| [](paracord/kelly-green.jpg)   Kelly Green         | [](paracord/khaki.jpg)   Khaki                               | [](paracord/knights-gold-and-black.jpg)   Knights Gold and Black | [](paracord/lifeguard.jpg)   Lifeguard                             | [](paracord/lightning.jpg)   Lightning                                 |
-| [](paracord/mint-green.jpg)   Mint Green           | [](paracord/mint-oreo.jpg)   Mint Oreo                       | [](paracord/neon-green.jpg)   Neon Green                         | [](paracord/neon-orange.jpg)   Neon Orange                         | [](paracord/neon-purple-acid.jpg)   Neon Purple Acid                   |
-| [](paracord/neptune.jpg)   Neptune                 | [](paracord/pink-pretty-in-pink.jpg)   Pink (Pretty in Pink) | [](paracord/pink-rose.jpg)   Pink Rose                           | [](paracord/purple.jpg)   Purple                                   | [](paracord/purple-blend.jpg)   Purple Blend                           |
-| [](paracord/racing-stripe.jpg)   Racing Stripe     | [](paracord/reactor.jpg)   Reactor                           | [](paracord/rebel-camo.jpg)   Rebel Camo                         | [](paracord/red.jpg)   Red                                         | [](paracord/red-imperial.jpg)   Red Imperial                           |
-| [](paracord/rorschach.jpg)   Rorschach             | [](paracord/silver-gray.jpg)   Silver Gray                   | [](paracord/smores.jpg)   Smores                                 | [](paracord/snow-camo.jpg)   Snow Camo                             | [](paracord/spiral-urban.jpg)   Spiral Urban                           |
-| [](paracord/starry-night.jpg)   Starry Night       | [](paracord/strawberry-fields.jpg)   Strawberry Fields       | [](paracord/sugar-rush.jpg)   Sugar Rush                         | [](paracord/tan.jpg)   Tan                                         | [](paracord/thin-blue-line.jpg)   Thin Blue Line                       |
-| [](paracord/turquoise.jpg)   Turquoise             | [](paracord/ufo.jpg)   UFO                                   | [](paracord/white.jpg)   White                                   | [](paracord/zebra.jpg)   Zebra                                     |                                                                         |
+| ![](paracord/blue-baby.jpg)   Baby Blue             | ![](paracord/blue-blend.jpg)   Blue Blend                     | ![](paracord/blue-carribean.jpg)   Blue Carribean                 | ![](paracord/blue-electric.jpg)   Blue Electric                     | ![](paracord/blue-lite-carolina.jpg)   Blue Lite Carolina               |
+| ![](paracord/blue-midnight.jpg)   Blue Midnight     | ![](paracord/blue-royal.jpg)   Blue Royal                     | ![](paracord/blue-snake.jpg)   Blue Snake                         | ![](paracord/breast-cancer-awareness.jpg)   Breast Cancer Awareness | ![](paracord/brown-chocolate-espresso.jpg)   Brown Chocolate (Espresso) |
+| ![](paracord/camo-deep-woods.jpg)   Camo Deep Woods | ![](paracord/canary-yellow.jpg)   Canary Yellow               | ![](paracord/canis.jpg)   Canis                                   | ![](paracord/chill.jpg)   Chill                                     | ![](paracord/cotton-candy.jpg)   Cotton Candy                           |
+| ![](paracord/country-girl.jpg)   Country Girl       | ![](paracord/coyote-brown.jpg)   Coyote Brown                 | ![](paracord/cream.jpg)   Cream                                   | ![](paracord/decay.jpg)   Decay                                     | ![](paracord/explode.jpg)   Explode                                     |
+| ![](paracord/fireball.jpg)   Fireball               | ![](paracord/gecko.jpg)   Gecko                               | ![](paracord/gray.jpg)   Gray                                     | ![](paracord/home-town-hero.jpg)   Home Town Hero                   | ![](paracord/infiltrate.jpg)   Infiltrate                               |
+| ![](paracord/kelly-green.jpg)   Kelly Green         | ![](paracord/khaki.jpg)   Khaki                               | ![](paracord/knights-gold-and-black.jpg)   Knights Gold and Black | ![](paracord/lifeguard.jpg)   Lifeguard                             | ![](paracord/lightning.jpg)   Lightning                                 |
+| ![](paracord/mint-green.jpg)   Mint Green           | ![](paracord/mint-oreo.jpg)   Mint Oreo                       | ![](paracord/neon-green.jpg)   Neon Green                         | ![](paracord/neon-orange.jpg)   Neon Orange                         | ![](paracord/neon-purple-acid.jpg)   Neon Purple Acid                   |
+| ![](paracord/neptune.jpg)   Neptune                 | ![](paracord/pink-pretty-in-pink.jpg)   Pink (Pretty in Pink) | ![](paracord/pink-rose.jpg)   Pink Rose                           | ![](paracord/purple.jpg)   Purple                                   | ![](paracord/purple-blend.jpg)   Purple Blend                           |
+| ![](paracord/racing-stripe.jpg)   Racing Stripe     | ![](paracord/reactor.jpg)   Reactor                           | ![](paracord/rebel-camo.jpg)   Rebel Camo                         | ![](paracord/red.jpg)   Red                                         | ![](paracord/red-imperial.jpg)   Red Imperial                           |
+| ![](paracord/rorschach.jpg)   Rorschach             | ![](paracord/silver-gray.jpg)   Silver Gray                   | ![](paracord/smores.jpg)   Smores                                 | ![](paracord/snow-camo.jpg)   Snow Camo                             | ![](paracord/spiral-urban.jpg)   Spiral Urban                           |
+| ![](paracord/starry-night.jpg)   Starry Night       | ![](paracord/strawberry-fields.jpg)   Strawberry Fields       | ![](paracord/sugar-rush.jpg)   Sugar Rush                         | ![](paracord/tan.jpg)   Tan                                         | ![](paracord/thin-blue-line.jpg)   Thin Blue Line                       |
+| ![](paracord/turquoise.jpg)   Turquoise             | ![](paracord/ufo.jpg)   UFO                                   | ![](paracord/white.jpg)   White                                   | ![](paracord/zebra.jpg)   Zebra                                     |                                                                         |
 
 ## Techflex
 ---
@@ -71,12 +71,12 @@ We will be updating this list from time to time, so be on the lookout!
 
 **Information:** Techflex, also known as double-sleeving, is a second layer of sleeving which covers the paracord. It adds an extra layer of durability and rigidity to the cable and endless possibilities for color combinations. We always recommend adding Techflex when ordering coiled cables as they keep them cleaner and more durable.
 
-| [](techflex/aqua.png)   Aqua               | [](techflex/beige.png)   Beige   | [](techflex/black.png)   Black           | [](techflex/blue.png)   Blue               |
+| ![](techflex/aqua.png)   Aqua               | ![](techflex/beige.png)   Beige   | ![](techflex/black.png)   Black           | ![](techflex/blue.png)   Blue               |
 |---------------------------------------------|-----------------------------------|-------------------------------------------|---------------------------------------------|
-| [](techflex/brown.png)   Brown             | [](techflex/carbon.png)   Carbon | [](techflex/clear.png)   Clear           | [](techflex/dark-purple.png)   Dark Purple |
-| [](techflex/gray.png)   Gray               | [](techflex/green.png)   Green   | [](techflex/monochrome.png)   Monochrome | [](techflex/neon-pink.png)   Neon Pink     |
-| [](techflex/neon-yellow.png)   Neon Yellow | [](techflex/orange.png)   Orange | [](techflex/purple.png)   Purple         | [](techflex/red.png)   Red                 |
-| [](techflex/white.png)   White             |                                   |                                           |                                             |
+| ![](techflex/brown.png)   Brown             | ![](techflex/carbon.png)   Carbon | ![](techflex/clear.png)   Clear           | ![](techflex/dark-purple.png)   Dark Purple |
+| ![](techflex/gray.png)   Gray               | ![](techflex/green.png)   Green   | ![](techflex/monochrome.png)   Monochrome | ![](techflex/neon-pink.png)   Neon Pink     |
+| ![](techflex/neon-yellow.png)   Neon Yellow | ![](techflex/orange.png)   Orange | ![](techflex/purple.png)   Purple         | ![](techflex/red.png)   Red                 |
+| ![](techflex/white.png)   White             |                                   |                                           |                                             |
 
 ## Heatshrink
 ---
@@ -84,11 +84,11 @@ We will be updating this list from time to time, so be on the lookout!
 
 **Information:** These strips of color will go on the ends of connectors and between aviator connectors. Also used in accents.
 
-| [](heatshrink/black.png)   Black   | [](heatshrink/blue.png)   Blue                 | [](heatshrink/brown.png)   Brown | [](heatshrink/burnt-orange.jpg)   Burnt Orange |
+| ![](heatshrink/black.png)   Black   | ![](heatshrink/blue.png)   Blue                 | ![](heatshrink/brown.png)   Brown | ![](heatshrink/burnt-orange.jpg)   Burnt Orange |
 |-----------------------------------|-----------------------------------------------|---------------------------------|-----------------------------------------------|
-| [](TBA.png)   Clear               | [](heatshrink/forest-green.png)   Forest Green | [](heatshrink/gray.png)   Gray   | [](heatshrink/green.png)   Green               |
-| [](heatshrink/orange.png)   Orange | [](heatshrink/purple.png)   Purple             | [](heatshrink/red.png)   Red     | [](heatshrink/white.png)   White               |
-| [](heatshrink/yellow.png)   Yellow |                                               |                                 |                                               |
+| ![](TBA.png)   Clear               | ![](heatshrink/forest-green.png)   Forest Green | ![](heatshrink/gray.png)   Gray   | ![](heatshrink/green.png)   Green               |
+| ![](heatshrink/orange.png)   Orange | ![](heatshrink/purple.png)   Purple             | ![](heatshrink/red.png)   Red     | ![](heatshrink/white.png)   White               |
+| ![](heatshrink/yellow.png)   Yellow |                                               |                                 |                                               |
 
 ## Host Connector
 ---
@@ -141,16 +141,16 @@ All colored detachables are unique to and only obtainable through Summitcables.
 
 ### Aviator
 ---
-| [](aviator/silver.png)   Silver                     | [](aviator/ce-beige.png)   CE Beige                   | [](aviator/ce-blue-gray.png)   CE Blue Gray     | [](aviator/ce-crimson-red.png)   CE Crimson Red |
+| ![](aviator/silver.png)   Silver                     | ![](aviator/ce-beige.png)   CE Beige                   | ![](aviator/ce-blue-gray.png)   CE Blue Gray     | ![](aviator/ce-crimson-red.png)   CE Crimson Red |
 |-----------------------------------------------------|-------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-| [](aviator/ce-everest-white.png)   CE Everest White | [](aviator/ce-gunmetal-gray.png)   CE Gunmetal Gray   | [](aviator/ce-hot-pink.png)   CE Hot Pink       | [](aviator/ce-raven-black.png)   CE Raven Black |
-| [](aviator/ce-royal-purple.png)   CE Royal Purple   | [](aviator/ce-sakura.png)   CE Sakura                 | [](aviator/ce-sky-blue.png)   CE Sky Blue       | [](aviator/le-dark-matter.png)   LE Dark Matter |
-| [](aviator/le-galaxy.png)   LE Galaxy               | [](aviator/le-ghost.png)   LE Ghost                   | [](aviator/le-glacier.png)   LE Glacier         | [](aviator/le-noir.png)   LE Noir               |
-| [](aviator/le-olive.png)   LE Olive                 | [](aviator/le-pink-champagne.png)   LE Pink Champagne | [](aviator/le-wild-purple.png)   LE Wild Purple | [](aviator/le-yolch.png)   LE Yolch             |
+| ![](aviator/ce-everest-white.png)   CE Everest White | ![](aviator/ce-gunmetal-gray.png)   CE Gunmetal Gray   | ![](aviator/ce-hot-pink.png)   CE Hot Pink       | ![](aviator/ce-raven-black.png)   CE Raven Black |
+| ![](aviator/ce-royal-purple.png)   CE Royal Purple   | ![](aviator/ce-sakura.png)   CE Sakura                 | ![](aviator/ce-sky-blue.png)   CE Sky Blue       | ![](aviator/le-dark-matter.png)   LE Dark Matter |
+| ![](aviator/le-galaxy.png)   LE Galaxy               | ![](aviator/le-ghost.png)   LE Ghost                   | ![](aviator/le-glacier.png)   LE Glacier         | ![](aviator/le-noir.png)   LE Noir               |
+| ![](aviator/le-olive.png)   LE Olive                 | ![](aviator/le-pink-champagne.png)   LE Pink Champagne | ![](aviator/le-wild-purple.png)   LE Wild Purple | ![](aviator/le-yolch.png)   LE Yolch             |
 
 ### Push-Pull
 ---
-| [](push-pull/silver.png)   Silver | [](push-pull/ce-gunmetal-gray.png)   CE Gunmetal Gray | [](push-pull/le-glacier.png)   LE Glacier |
+| ![](push-pull/silver.png)   Silver | ![](push-pull/ce-gunmetal-gray.png)   CE Gunmetal Gray | ![](push-pull/le-glacier.png)   LE Glacier |
 |-----------------------------------|-------------------------------------------------------|-------------------------------------------|
 
 
