@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-theme-primer
 title: Summitcables Catalog v2
 description: discord.gg/summitcables
 show_downloads: "false"
