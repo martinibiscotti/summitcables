@@ -101,7 +101,7 @@ This connector plugs into your host, i.e. your computer.
 | USB Micro B    | $0.00 (included in base) | $0.75 |
 | USB Type C 2.0 | $2.00                    | -     |
 
-This connector plugs into your decvice, i.e. your keyboard or phone.
+This connector plugs into your device, i.e. your keyboard or phone.
 
 ## Coil
 * 4 in coil (covers 3 ft of cable)
