@@ -17,6 +17,7 @@ Thanks!
 
 # Group Buy Schedule
 We are currently using a Google Form which opens up every Saturday at 10:00AM PT (https://time.is/PT).
+
 Keep in mind that all times are subject to change. In the event of a change, I will post an announcement in the Summitcables Discord.
 
 
