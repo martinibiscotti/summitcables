@@ -1,13 +1,6 @@
-<p style="text-align: center;">
-
 ![](logo.png)
 
-&nbsp;
-
 ### [Ordering Form / Opens 10:00AM PT / 11-9-19](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform)
-</p>
-
-&nbsp;
 
 # About Us
 Hi, welcome to the Summit Catalog v2!
