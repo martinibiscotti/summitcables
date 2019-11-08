@@ -1,5 +1,4 @@
 # About Us
----
 Hi, welcome to the Summit Catalog v2!
 
 You will find everything of importance here, including a few extras, like information about future Group Buys.
@@ -10,16 +9,11 @@ Thanks!
 -Chris
 
 # Contact Us
----
-Email: support@summitcables.com
-
-Instagram: https://instagram.com/summitcables
-
-Twitter: https://twitter.com/summitcables
-
-Reddit: https://reddit.com/u/kbnote
-
-Discord: https://discord.gg/summitcables
+* Email: support@summitcables.com
+* Instagram: https://instagram.com/summitcables
+* Twitter: https://twitter.com/summitcables
+* Reddit: https://reddit.com/u/kbnote
+* Discord: https://discord.gg/summitcables
 
 # Group Buy Schedule
 We are currently using a Google Form which opens up every Saturday at 10:00AM PT (https://time.is/PT).
