@@ -150,7 +150,7 @@ All colored detachables are unique to and only obtainable through Summitcables.
 
 **Information:** Accents are colored stripes made out of heatshrink that are attached on your detachable.
 
-| ![](heatshrink/black.png)   **Black**   | ![](heatshrink/blue.png)   **Blue**                 | ![](heatshrink/brown.png)   **Brown** | ![](heatshrink/burnt-orange.png)   **Burnt Orange** |
+| ![](heatshrink/black.png)   Black   | ![](heatshrink/blue.png)   **Blue**                 | ![](heatshrink/brown.png)   **Brown** | ![](heatshrink/burnt-orange.png)   **Burnt Orange** |
 |:---------------------------------------:|:---------------------------------------------------:|:-------------------------------------:|:---------------------------------------------------:|
 | ![](heatshrink/clear.png)   **Clear**   | ![](heatshrink/forest-green.png)   **Forest Green** | ![](heatshrink/gray.png)   **Gray**   | ![](heatshrink/green.png)   **Green**               |
 | ![](heatshrink/orange.png)   **Orange** | ![](heatshrink/purple.png)   **Purple**             | ![](heatshrink/red.png)   **Red**     | ![](heatshrink/white.png)   **White**               |
