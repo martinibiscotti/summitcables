@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="242" src="https://gandr.pw/summitcables/logo.png">
+  <img src="https://gandr.pw/summitcables/logo.png">
 </p>
 
 ### [Ordering Form / Opens 10:00AM PT / 11-9-19](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform)
@@ -83,8 +83,8 @@ We will be updating this list from time to time, so be on the lookout!
 
 **Information:** These strips of color will go on the ends of connectors and between detachables. They are also used in accents.
 
-| ![](heatshrink/black.png)   **Black**     | ![](heatshrink/blue.png)   **Blue**                 | ![](heatshrink/brown.png)   **Brown** | ![](heatshrink/burnt-orange.png)   **Burnt Orange** |
-|----------------------------------------:|:---------------------------------------------------:|:-------------------------------------:|:---------------------------------------------------:|
+| ![](heatshrink/black.png)   **Black**   | ![](heatshrink/blue.png)   **Blue**                 | ![](heatshrink/brown.png)   **Brown** | ![](heatshrink/burnt-orange.png)   **Burnt Orange** |
+|:---------------------------------------:|:---------------------------------------------------:|:-------------------------------------:|:---------------------------------------------------:|
 | ![](heatshrink/clear.png)   **Clear**   | ![](heatshrink/forest-green.png)   **Forest Green** | ![](heatshrink/gray.png)   **Gray**   | ![](heatshrink/green.png)   **Green**               |
 | ![](heatshrink/orange.png)   **Orange** | ![](heatshrink/purple.png)   **Purple**             | ![](heatshrink/red.png)   **Red**     | ![](heatshrink/white.png)   **White**               |
 | ![](heatshrink/yellow.png)   **Yellow** |                                                     |                                       |                                                     |
