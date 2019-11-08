@@ -12,13 +12,16 @@ Thanks!
 # Contact Us
 ---
 Email: support@summitcables.com
+
 Instagram: https://instagram.com/summitcables
+
 Twitter: https://twitter.com/summitcables
+
 Reddit: https://reddit.com/u/kbnote
+
 Discord: https://discord.gg/summitcables
 
 # Group Buy Schedule
----
 We are currently using a Google Form which opens up every Saturday at 10:00AM PT (https://time.is/PT).
 Keep in mind that all times are subject to change. In the event of a change, I will post an announcement in the Summitcables Discord.
 
@@ -31,19 +34,16 @@ Keep in mind that all times are subject to change. In the event of a change, I w
 
 
 ## Terms of Service
----
 * 7-14 business day turnaround time
 * 14 day return policy
 * No refunds unless authorized (misorders, rent is due, etc.)
 
 ## Base
----
 **Price:** $20.00
 
 **Information:** Base covers 1ft of wire and paracord, heatshrink, and silver USB Type A/Mini B/Micro B connectors.
 
 ## Paracord
----
 **Price:** $0.50 per ft (1 ft included in Base)
 
 **Information:** Type III Paracord is the commerical version of Mil Spec 550 Parachute Cord, also known as Mil Spec Paracord, or Mil Spec 550 Paracord. This Nylon 550 cord is smooth and pliable which makes it nice to handle. The high 550lb tensile strength gives it superior strength and durability. It resists rot, mildew, and UV damage
@@ -66,7 +66,6 @@ We will be updating this list from time to time, so be on the lookout!
 | ![](paracord/turquoise.jpg)   Turquoise             | ![](paracord/ufo.jpg)   UFO                                   | ![](paracord/white.jpg)   White                                   | ![](paracord/zebra.jpg)   Zebra                                     |                                                                         |
 
 ## Techflex
----
 **Price:** $1.00 per ft
 
 **Information:** Techflex, also known as double-sleeving, is a second layer of sleeving which covers the paracord. It adds an extra layer of durability and rigidity to the cable and endless possibilities for color combinations. We always recommend adding Techflex when ordering coiled cables as they keep them cleaner and more durable.
@@ -79,7 +78,6 @@ We will be updating this list from time to time, so be on the lookout!
 | ![](techflex/white.png)   White             |                                   |                                           |                                             |
 
 ## Heatshrink
----
 **Price:** $0.00 (included in base)
 
 **Information:** These strips of color will go on the ends of connectors and between aviator connectors. Also used in accents.
@@ -91,7 +89,6 @@ We will be updating this list from time to time, so be on the lookout!
 | ![](heatshrink/yellow.png)   Yellow |                                               |                                 |                                               |
 
 ## Host Connector
----
 **Price:**
 
 | Connector:     | Silver                   | Gold  |
@@ -99,7 +96,6 @@ We will be updating this list from time to time, so be on the lookout!
 | USB Type A 2.0 | $0.00 (included in base) | $0.75 |
 
 ## Device Connector
----
 **Price:**
 
 | Connector:     | Silver                   | Gold  |
@@ -111,7 +107,6 @@ We will be updating this list from time to time, so be on the lookout!
 This connector plugs into your decvice, i.e. your keyboard or phone.
 
 ## Coil
----
 * 4 in coil (covers 3 ft of cable)
   * **Price:** $5.00
 * 5 in coil (covers 4 ft of cable)
@@ -124,7 +119,6 @@ This connector plugs into your decvice, i.e. your keyboard or phone.
   * **Price:** $9.00
 
 ## Detachable
----
 **Price:**
 
 | Type:     | Silver | CE     | LE     | SE     |
@@ -143,21 +137,18 @@ The **Special Edition series**, also known as the **SE-series**, is a range of c
 All colored detachables are unique to and only obtainable through Summitcables.
 
 ### Aviator
----
 | ![](aviator/silver.png)   Silver                     | ![](aviator/ce-beige.png)   CE Beige                   | ![](aviator/ce-blue-gray.png)   CE Blue Gray     | ![](aviator/ce-crimson-red.png)   CE Crimson Red |
 |-----------------------------------------------------|-------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
 | ![](aviator/ce-everest-white.png)   CE Everest White | ![](aviator/ce-gunmetal-grey.png)   CE Gunmetal Gray   | ![](aviator/ce-hot-pink.png)   CE Hot Pink       | ![](aviator/ce-raven-black.png)   CE Raven Black |
 | ![](aviator/ce-royal-purple.png)   CE Royal Purple   | ![](aviator/ce-sakura.png)   CE Sakura                 | ![](aviator/ce-sky-blue.jpg)   CE Sky Blue       | ![](aviator/le-dark-matter.png)   LE Dark Matter |
 | ![](aviator/le-galaxy.png)   LE Galaxy               | ![](aviator/le-ghost.png)   LE Ghost                   | ![](aviator/le-glacier.png)   LE Glacier         | ![](aviator/le-noir.png)   LE Noir               |
-| ![](aviator/le-olive.png)   LE Olive                 | ![](aviator/le-pink champagne.png)   LE Pink Champagne | ![](aviator/le-wild-purple.png)   LE Wild Purple | ![](aviator/le-yolch.png)   LE Yolch             |
+| ![](aviator/le-olive.png)   LE Olive                 | ![](aviator/le-pink-champagne.png)   LE Pink Champagne | ![](aviator/le-wild-purple.png)   LE Wild Purple | ![](aviator/le-yolch.png)   LE Yolch             |
 
 ### Push-Pull
----
 | ![](push-pull/silver.png)   Silver | ![](push-pull/ce-gunmetal-gray.png)   CE Gunmetal Gray | ![](push-pull/le-glacier.png)   LE Glacier |
 |-----------------------------------|-------------------------------------------------------|-------------------------------------------|
 
 ## Accents
----
 **Price:** $3.50
 
 **Information:** Accents are colored stripes made out of heatshrink that are attached onto your detachable.
@@ -169,7 +160,6 @@ All colored detachables are unique to and only obtainable through Summitcables.
 | ![](heatshrink/yellow.png)   Yellow |                                               |                                 |                                               |
 
 ## Extra Ends
----
 **Price:**
 
 | Shipping:        | USPS First Class | USPS First Class (>8oz) |
@@ -181,7 +171,6 @@ All colored detachables are unique to and only obtainable through Summitcables.
 Extra ends cover 5in of wire and paracord, heatshrink, regular connector, and female detachable.
 
 ## Shipping
----
 **Price:**
 
 | Shipping:        | USPS First Class | USPS First Class (>8oz) |
