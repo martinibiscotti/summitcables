@@ -8,7 +8,7 @@
 Hi, welcome to the Summit Catalog v2!
 
 You will find everything of importance here, including some extras, like information about future Group Buys.  
-I am based out of Oregon, United States, and all of my Cable Drops will be in the Pacific time zone.  
+I am based out of Oregon, United States and all of my Cable Drops will be in the Pacific time zone.  
 I highly suggest joining the Discord, as it’s the best way to interact with the community and learn more.
 
 Thanks!  
@@ -22,7 +22,7 @@ Thanks!
 * Discord: [https://discord.gg/summitcables](https://discord.gg/summitcables)
 
 # Group Buy Schedule
-We are currently using a Google Form which opens up every Saturday at [10:00 AM PT](https://time.is/PT) located at [this link to the ordering form](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform).
+We are currently taking orders using a Google Form which opens up every Saturday at [10:00 AM PT](https://time.is/PT) located at [this link to the ordering form](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform).
 
 Keep in mind that all times are subject to change. In the event of any changes, an announcement will be posted in the Summitcables Discord.
 
@@ -42,12 +42,12 @@ Keep in mind that all times are subject to change. In the event of any changes, 
 ## Base
 **Price:** $20.00
 
-**Information:** Base covers 1ft of wire and paracord, heatshrink, and silver USB Type A/Mini B/Micro B connectors.
+**Information:** Base covers 1 ft of wire and paracord, heatshrink, and silver USB Type A/Mini B/Micro B connectors.
 
 ## Paracord
 **Price:** $0.50 per ft (1 ft included in Base)
 
-**Information:** Type III Paracord is the commerical version of Mil Spec 550 Parachute Cord, also known as Mil Spec Paracord, or Mil Spec 550 Paracord. This Nylon 550 cord is smooth and pliable which makes it nice to handle. The high 550lb tensile strength gives it superior strength and durability. It resists rot, mildew, and UV damage
+**Information:** Type III Paracord is the commerical version of Mil Spec 550 Parachute Cord, also known as Mil Spec Paracord or Mil Spec 550 Paracord. This Nylon 550 cord is smooth and pliable which makes it nice to handle. The high 550 lb tensile strength gives it superior strength and durability. It resists rot, mildew, and UV damage.
 
 We will be updating this list from time to time, so be on the lookout!
 
@@ -69,7 +69,7 @@ We will be updating this list from time to time, so be on the lookout!
 ## Techflex
 **Price:** $1.00 per ft
 
-**Information:** Techflex, also known as double-sleeving, is a second layer of sleeving which covers the paracord. It adds an extra layer of durability and rigidity to the cable and endless possibilities for color combinations. We always recommend adding Techflex when ordering coiled cables as they keep them cleaner and more durable.
+**Information:** Techflex, also known as double-sleeving, is a second layer of sleeving which covers the paracord. It adds an extra layer of durability and rigidity to the cable and endless possibilities for color combinations. We always recommend adding Techflex when ordering coiled cables as they keep the cable cleaner and more durable.
 
 | ![](techflex/aqua.png)   **Aqua**               | ![](techflex/beige.png)   **Beige**   | ![](techflex/black.png)   **Black**           | ![](techflex/blue.png)   **Blue**               |
 |:-----------------------------------------------:|:-------------------------------------:|:---------------------------------------------:|:-----------------------------------------------:|
