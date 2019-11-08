@@ -66,22 +66,22 @@ We will be updating this list from time to time, so be on the lookout!
 **Information:** Techflex, also known as double-sleeving, is a second layer of sleeving which covers the paracord. It adds an extra layer of durability and rigidity to the cable and endless possibilities for color combinations. We always recommend adding Techflex when ordering coiled cables as they keep them cleaner and more durable.
 
 | ![](techflex/aqua.png)   **Aqua**               | ![](techflex/beige.png)   **Beige**   | ![](techflex/black.png)   **Black**           | ![](techflex/blue.png)   **Blue**               |
-|---------------------------------------------|-----------------------------------|-------------------------------------------|---------------------------------------------|
+|-------------------------------------------------|---------------------------------------|-----------------------------------------------|-------------------------------------------------|
 | ![](techflex/brown.png)   **Brown**             | ![](techflex/carbon.png)   **Carbon** | ![](techflex/clear.png)   **Clear**           | ![](techflex/dark-purple.png)   **Dark Purple** |
 | ![](techflex/gray.png)   **Gray**               | ![](techflex/green.png)   **Green**   | ![](techflex/monochrome.png)   **Monochrome** | ![](techflex/neon-pink.png)   **Neon Pink**     |
 | ![](techflex/neon-yellow.png)   **Neon Yellow** | ![](techflex/orange.png)   **Orange** | ![](techflex/purple.png)   **Purple**         | ![](techflex/red.png)   **Red**                 |
-| ![](techflex/white.png)   **White**             |                                   |                                           |                                             |
+| ![](techflex/white.png)   **White**             |                                       |                                               |                                                 |
 
 ## Heatshrink
 **Price:** $0.00 (included in base)
 
 **Information:** These strips of color will go on the ends of connectors and between detachables. They are also used in accents.
 
-| ![](heatshrink/black.png)   **Black   | ![](heatshrink/blue.png)   **Blue**                 | ![](heatshrink/brown.png)   **Brown** | ![](heatshrink/burnt-orange.png)   **Burnt Orange** |
-|-----------------------------------|-----------------------------------------------|---------------------------------|-----------------------------------------------|
-| ![](heatshrink/clear.png)   **Clear**               | ![](heatshrink/forest-green.png)   **Forest Green** | ![](heatshrink/gray.png)   **Gray**   | ![](heatshrink/green.png)   **Green**               |
+| ![](heatshrink/black.png)   **Black     | ![](heatshrink/blue.png)   **Blue**                 | ![](heatshrink/brown.png)   **Brown** | ![](heatshrink/burnt-orange.png)   **Burnt Orange** |
+|-----------------------------------------|-----------------------------------------------------|---------------------------------------|-----------------------------------------------------|
+| ![](heatshrink/clear.png)   **Clear**   | ![](heatshrink/forest-green.png)   **Forest Green** | ![](heatshrink/gray.png)   **Gray**   | ![](heatshrink/green.png)   **Green**               |
 | ![](heatshrink/orange.png)   **Orange** | ![](heatshrink/purple.png)   **Purple**             | ![](heatshrink/red.png)   **Red**     | ![](heatshrink/white.png)   **White**               |
-| ![](heatshrink/yellow.png)   **Yellow** |                                               |                                 |                                               |
+| ![](heatshrink/yellow.png)   **Yellow** |                                                     |                                       |                                                     |
 
 ## Host Connector
 **Price:**
@@ -135,7 +135,7 @@ All colored detachables are unique to and only obtainable through Summitcables.
 
 ### Aviator
 | ![](aviator/silver.png)   **Silver**                     | ![](aviator/ce-beige.png)   **CE Beige**                   | ![](aviator/ce-blue-gray.png)   **CE Blue Gray**     | ![](aviator/ce-crimson-red.png)   **CE Crimson Red** |
-|-----------------------------------------------------|-------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
+|----------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 | ![](aviator/ce-everest-white.png)   **CE Everest White** | ![](aviator/ce-gunmetal-gray.png)   **CE Gunmetal Gray**   | ![](aviator/ce-hot-pink.png)   **CE Hot Pink**       | ![](aviator/ce-raven-black.png)   **CE Raven Black** |
 | ![](aviator/ce-royal-purple.png)   **CE Royal Purple**   | ![](aviator/ce-sakura.png)   **CE Sakura**                 | ![](aviator/ce-sky-blue.jpg)   **CE Sky Blue**       | ![](aviator/le-dark-matter.png)   **LE Dark Matter** |
 | ![](aviator/le-galaxy.png)   **LE Galaxy**               | ![](aviator/le-ghost.png)   **LE Ghost**                   | ![](aviator/le-glacier.png)   **LE Glacier**         | ![](aviator/le-noir.png)   **LE Noir**               |
@@ -143,7 +143,7 @@ All colored detachables are unique to and only obtainable through Summitcables.
 
 ### Push-Pull
 | ![](push-pull/silver.png)   **Silver** | ![](push-pull/ce-gunmetal-gray.png)   **CE Gunmetal Gray** | ![](push-pull/le-glacier.png)   **LE Glacier** |
-|-----------------------------------|-------------------------------------------------------|-------------------------------------------|
+|----------------------------------------|------------------------------------------------------------|------------------------------------------------|
 
 ## Accents
 **Price:** $3.50
@@ -151,10 +151,10 @@ All colored detachables are unique to and only obtainable through Summitcables.
 **Information:** Accents are colored stripes made out of heatshrink that are attached on your detachable.
 
 | ![](heatshrink/black.png)   **Black**   | ![](heatshrink/blue.png)   **Blue**                 | ![](heatshrink/brown.png)   **Brown** | ![](heatshrink/burnt-orange.png)   **Burnt Orange** |
-|-----------------------------------|-----------------------------------------------|---------------------------------|-----------------------------------------------|
-| ![](heatshrink/clear.png)   **Clear**               | ![](heatshrink/forest-green.png)   **Forest Green** | ![](heatshrink/gray.png)   **Gray**   | ![](heatshrink/green.png)   **Green**               |
+|-----------------------------------------|-----------------------------------------------------|---------------------------------------|-----------------------------------------------------|
+| ![](heatshrink/clear.png)   **Clear**   | ![](heatshrink/forest-green.png)   **Forest Green** | ![](heatshrink/gray.png)   **Gray**   | ![](heatshrink/green.png)   **Green**               |
 | ![](heatshrink/orange.png)   **Orange** | ![](heatshrink/purple.png)   **Purple**             | ![](heatshrink/red.png)   **Red**     | ![](heatshrink/white.png)   **White**               |
-| ![](heatshrink/yellow.png)   **Yellow** |                                               |                                 |                                               |
+| ![](heatshrink/yellow.png)   **Yellow** |                                                     |                                       |                                                     |
 
 ## Extra Ends
 **Price:**
