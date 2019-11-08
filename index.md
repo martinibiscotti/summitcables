@@ -93,6 +93,7 @@ We will be updating this list from time to time, so be on the lookout!
 ## Host Connector
 ---
 **Price:**
+
 | Connector:     | Silver                   | Gold  |
 |----------------|--------------------------|-------|
 | USB Type A 2.0 | $0.00 (included in base) | $0.75 |
@@ -100,6 +101,7 @@ We will be updating this list from time to time, so be on the lookout!
 ## Device Connector
 ---
 **Price:**
+
 | Connector:     | Silver                   | Gold  |
 |----------------|--------------------------|-------|
 | USB Mini B     | $0.00 (included in base) | $0.75 |
@@ -124,6 +126,7 @@ This connector plugs into your decvice, i.e. your keyboard or phone.
 ## Detachable
 ---
 **Price:**
+
 | Type:     | Silver | CE     | LE     | SE     |
 |-----------|--------|--------|--------|--------|
 | Aviator   | $11.00 | $20.00 | $20.00 | $20.00 |
@@ -153,5 +156,36 @@ All colored detachables are unique to and only obtainable through Summitcables.
 | ![](push-pull/silver.png)   Silver | ![](push-pull/ce-gunmetal-gray.png)   CE Gunmetal Gray | ![](push-pull/le-glacier.png)   LE Glacier |
 |-----------------------------------|-------------------------------------------------------|-------------------------------------------|
 
+## Accents
+---
+**Price:** $3.50
 
+**Information:** Accents are colored stripes made out of heatshrink that are attached onto your detachable.
 
+| ![](heatshrink/black.png)   Black   | ![](heatshrink/blue.png)   Blue                 | ![](heatshrink/brown.png)   Brown | ![](heatshrink/burnt-orange.jpg)   Burnt Orange |
+|-----------------------------------|-----------------------------------------------|---------------------------------|-----------------------------------------------|
+| ![](TBA.png)   Clear               | ![](heatshrink/forest-green.png)   Forest Green | ![](heatshrink/gray.png)   Gray   | ![](heatshrink/green.png)   Green               |
+| ![](heatshrink/orange.png)   Orange | ![](heatshrink/purple.png)   Purple             | ![](heatshrink/red.png)   Red     | ![](heatshrink/white.png)   White               |
+| ![](heatshrink/yellow.png)   Yellow |                                               |                                 |                                               |
+
+## Extra Ends
+---
+**Price:**
+
+| ![](heatshrink/black.png)   Black   | ![](heatshrink/blue.png)   Blue                 | ![](heatshrink/brown.png)   Brown | ![](heatshrink/burnt-orange.jpg)   Burnt Orange |
+|-----------------------------------|-----------------------------------------------|---------------------------------|-----------------------------------------------|
+| ![](TBA.png)   Clear               | ![](heatshrink/forest-green.png)   Forest Green | ![](heatshrink/gray.png)   Gray   | ![](heatshrink/green.png)   Green               |
+| ![](heatshrink/orange.png)   Orange | ![](heatshrink/purple.png)   Purple             | ![](heatshrink/red.png)   Red     | ![](heatshrink/white.png)   White               |
+| ![](heatshrink/yellow.png)   Yellow |                                               |                                 |                                               |
+
+Extra ends cover 5in of wire and paracord, heatshrink, regular connector, and female detachable.
+
+## Shipping
+---
+**Price:**
+
+| Shipping:        | USPS First Class | USPS First Class (>8oz) |
+|------------------|------------------|-------------------------|
+| USA, Puerto Rico | $3.79            | $4.00                   |
+| Canada           | $10.00           | $10.00                  |
+| International    | $14.00           | $22.50                  |
