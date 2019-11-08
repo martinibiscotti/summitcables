@@ -144,8 +144,9 @@ All colored detachables are unique to and only obtainable through Summitcables.
 
 ### Push-Pull
 
-![](push-pull/silver.png)   **Silver** | ![](push-pull/ce-gunmetal-gray.png)   **CE Gunmetal Gray** | ![](push-pull/le-glacier.png)   **LE Glacier**
-:--------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------:
+| ![](push-pull/silver.png)   **Silver**         | ![](push-pull/ce-gunmetal-gray.png)   **CE Gunmetal Gray** |
+|:-------------------------------------========-:|:----------------------------------------------------------:|
+| ![](push-pull/le-glacier.png)   **LE Glacier** |                                                            |
 
 
 ## Accents
