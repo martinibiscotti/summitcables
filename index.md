@@ -2,7 +2,7 @@
   <img src="https://summitcables.github.io/logo.png">
 </p>
 
-### [Ordering Form / Opens 10:00AM PT / 11-9-19](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform)
+### [Ordering Form / Opens 10:00 AM PT / 11-9-19](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform)
 
 # About Us
 Hi, welcome to the Summit Catalog v2!
@@ -22,7 +22,7 @@ Thanks!
 * Discord: [https://discord.gg/summitcables](https://discord.gg/summitcables)
 
 # Group Buy Schedule
-We are currently using a Google Form which opens up every Saturday at [10:00AM PT](https://time.is/PT) located at [this link to the ordering form](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform).
+We are currently using a Google Form which opens up every Saturday at [10:00 AM PT](https://time.is/PT) located at [this link to the ordering form](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform).
 
 Keep in mind that all times are subject to change. In the event of any changes, an announcement will be posted in the Summitcables Discord.
 
