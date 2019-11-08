@@ -134,6 +134,7 @@ The **Special Edition series**, also known as the **SE-series**, is a range of c
 All colored detachables are unique to and only obtainable through Summitcables.
 
 ### Aviator
+
 | ![](aviator/silver.png)   **Silver**                     | ![](aviator/ce-beige.png)   **CE Beige**                   | ![](aviator/ce-blue-gray.png)   **CE Blue Gray**     | ![](aviator/ce-crimson-red.png)   **CE Crimson Red** |
 |:--------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------:|:----------------------------------------------------:|
 | ![](aviator/ce-everest-white.png)   **CE Everest White** | ![](aviator/ce-gunmetal-gray.png)   **CE Gunmetal Gray**   | ![](aviator/ce-hot-pink.png)   **CE Hot Pink**       | ![](aviator/ce-raven-black.png)   **CE Raven Black** |
@@ -142,6 +143,7 @@ All colored detachables are unique to and only obtainable through Summitcables.
 | ![](aviator/le-olive.png)   **LE Olive**                 | ![](aviator/le-pink-champagne.png)   **LE Pink Champagne** | ![](aviator/le-wild-purple.png)   **LE Wild Purple** | ![](aviator/le-yolch.png)   **LE Yolch**             |
 
 ### Push-Pull
+
 | ![](push-pull/silver.png)   **Silver** | ![](push-pull/ce-gunmetal-gray.png)   **CE Gunmetal Gray** | ![](push-pull/le-glacier.png)   **LE Glacier** |
 |:--------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------:|
 
