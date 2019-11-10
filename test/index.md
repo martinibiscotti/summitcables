@@ -1,2 +1,0 @@
-| ![](push-pull/silver.png)<br/>**Silver** | ![](push-pull/ce-gunmetal-gray.png)<br/>**CE Gunmetal Gray** | ![](push-pull/le-glacier.png)<br/>**LE Glacier** |      
-|:----------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------:|
