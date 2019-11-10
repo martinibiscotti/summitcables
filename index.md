@@ -163,13 +163,11 @@ All colored detachables are unique to and only obtainable through Summitcables.
 ## Accents
 **Price:** $3.50
 
-**Information:** Accents are colored stripes made out of heatshrink that are attached on your detachable.
+**Information:** Accents are colored stripes made out of heatshrink that are attached on your detachable. Please refer to the [heatshrink section](#heatshrink) for accent color options.
 
-| ![](heatshrink/black.png)<br/>**Black**   | ![](heatshrink/blue.png)<br/>**Blue**                 | ![](heatshrink/brown.png)<br/>**Brown** | ![](heatshrink/burnt-orange.png)<br/>**Burnt Orange** |
-|:-----------------------------------------:|:-----------------------------------------------------:|:---------------------------------------:|:-----------------------------------------------------:|
-| ![](heatshrink/clear.png)<br/>**Clear**   | ![](heatshrink/forest-green.png)<br/>**Forest Green** | ![](heatshrink/gray.png)<br/>**Gray**   | ![](heatshrink/green.png)<br/>**Green**               |
-| ![](heatshrink/orange.png)<br/>**Orange** | ![](heatshrink/purple.png)<br/>**Purple**             | ![](heatshrink/red.png)<br/>**Red**     | ![](heatshrink/white.png)<br/>**White**               |
-| ![](heatshrink/yellow.png)<br/>**Yellow** |                                                       |                                         |                                                       |
+<p align="center">
+  <img src="https://summitcables.github.io/heatshrink/accents.png">
+</p>
 
 ## Extra Ends
 **Price:**
