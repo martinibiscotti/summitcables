@@ -2,7 +2,7 @@
   <img src="https://summitcables.github.io/logo.png">
 </p>
 
-### [Ordering Form / Opens 10:00 AM PT / 11-9-19](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform)
+### [(Click Here) Ordering Form / Opens 10:00 AM PT / 11-16-19](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform)
 
 ### [https://time.is/pt](https://time.is/pt)
 
@@ -36,7 +36,7 @@ Keep in mind that all times are subject to change. In the event of any changes, 
 | 35 units                  | 50 units    | 50 units        |
 
 
-## Terms of Service
+# Terms of Service
 * 7-14 business day turnaround time
 * 14 day return policy
 * No refunds unless authorized (misorders, rent is due, etc.)
@@ -95,8 +95,7 @@ We will be updating this list from time to time, so be on the lookout!
 | ![](heatshrink/yellow.png)<br/>**Yellow** |                                                     |                                       |                                                     |
 
 ## Host Connector
-**Price:**
-
+**Price:**  
 | Connector:     | Silver                   | Gold  |
 |:---------------|:------------------------:|:-----:|
 | USB Type A 2.0 | $0.00 (included in base) | $0.75 |
@@ -104,8 +103,7 @@ We will be updating this list from time to time, so be on the lookout!
 This connector plugs into your host, i.e. your computer.
 
 ## Device Connector
-**Price:**
-
+**Price:**  
 | Connector:     | Silver                   | Gold  |
 |:---------------|:------------------------:|:-----:|
 | USB Mini B     | $0.00 (included in base) | $0.75 |
@@ -127,8 +125,7 @@ This connector plugs into your device, i.e. your keyboard or phone.
   * **Price:** $9.00
 
 ## Detachable
-**Price:**
-
+**Price:**  
 | Type:     | Silver | CE     | LE     | SE     |
 |:----------|:------:|:------:|:------:|:------:|
 | Aviator   | $11.00 | $20.00 | $20.00 | $20.00 |
@@ -146,12 +143,13 @@ All colored detachables are unique to and only obtainable through Summitcables.
 
 ### Aviator
 
-| ![](aviator/silver.png)<br/>**Silver**                     | ![](aviator/ce-beige.png)<br/>**CE Beige**                   | ![](aviator/ce-blue-gray.png)<br/>**CE Blue Gray**     | ![](aviator/ce-crimson-red.png)<br/>**CE Crimson Red** |
-|:--------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------:|:----------------------------------------------------:|
-| ![](aviator/ce-everest-white.png)<br/>**CE Everest White** | ![](aviator/ce-gunmetal-gray.png)<br/>**CE Gunmetal Gray**   | ![](aviator/ce-hot-pink.png)<br/>**CE Hot Pink**       | ![](aviator/ce-raven-black.png)<br/>**CE Raven Black** |
-| ![](aviator/ce-royal-purple.png)<br/>**CE Royal Purple**   | ![](aviator/ce-sakura.png)<br/>**CE Sakura**                 | ![](aviator/ce-sky-blue.jpg)<br/>**CE Sky Blue**       | ![](aviator/le-dark-matter.png)<br/>**LE Dark Matter** |
-| ![](aviator/le-galaxy.png)<br/>**LE Galaxy**               | ![](aviator/le-ghost.png)<br/>**LE Ghost**                   | ![](aviator/le-glacier.png)<br/>**LE Glacier**         | ![](aviator/le-noir.png)<br/>**LE Noir**               |
-| ![](aviator/le-olive.png)<br/>**LE Olive**                 | ![](aviator/le-pink-champagne.png)<br/>**LE Pink Champagne** | ![](aviator/le-wild-purple.png)<br/>**LE Wild Purple** | ![](aviator/le-yolch.png)<br/>**LE Yolch**             |
+|           ![](aviator/silver.png)<br/>**Silver**           |         ![](aviator/ce-beige.png)<br/>**CE Beige**         | ![](aviator/ce-blue-gray.png)<br/>**CE Blue Gray** |    ![](aviator/ce-crimson-red.png)<br/>**CE Crimson Red**    |
+|:----------------------------------------------------------:|:----------------------------------------------------------:|:--------------------------------------------------:|:------------------------------------------------------------:|
+| ![](aviator/ce-everest-white.png)<br/>**CE Everest White** | ![](aviator/ce-gunmetal-gray.png)<br/>**CE Gunmetal Gray** |  ![](aviator/ce-hot-pink.png)<br/>**CE Hot Pink**  |         ![](aviator/silver.png)<br/>**CE Polar Blue**        |
+|   ![](aviator/ce-raven-black.png)<br/>**CE Raven Black**   |  ![](aviator/ce-royal-purple.png)<br/>**CE Royal Purple**  |    ![](aviator/ce-sakura.png)<br/>**CE Sakura**    |       ![](aviator/ce-sky-blue.jpg)<br/>**CE Sky Blue**       |
+|           ![](aviator/silver.png)<br/>**LE 9009**          |   ![](aviator/le-dark-matter.png)<br/>**LE Dark Matter**   |    ![](aviator/le-galaxy.png)<br/>**LE Galaxy**    |          ![](aviator/le-ghost.png)<br/>**LE Ghost**          |
+|       ![](aviator/le-glacier.png)<br/>**LE Glacier**       |          ![](aviator/le-noir.png)<br/>**LE Noir**          |     ![](aviator/le-olive.png)<br/>**LE Olive**     | ![](aviator/le-pink-champagne.png)<br/>**LE Pink Champagne** |
+|   ![](aviator/le-wild-purple.png)<br/>**LE Wild Purple**   |         ![](aviator/le-yolch.png)<br/>**LE Yolch**         |   ![](aviator/le-questionmark.jpg)<br/>**LE ???**  |                                                              |
 
 ### Push-Pull
 
@@ -172,8 +170,7 @@ All colored detachables are unique to and only obtainable through Summitcables.
 | ![](heatshrink/yellow.png)<br/>**Yellow** |                                                     |                                       |                                                     |
 
 ## Extra Ends
-**Price:**
-
+**Price:**  
 | Detachable: | Silver  | Colored |
 |:------------|:-------:|:-------:|
 | Aviator     | $21.00  | $26.00  |
@@ -182,8 +179,7 @@ All colored detachables are unique to and only obtainable through Summitcables.
 Extra ends cover 5 in of wire and paracord, heatshrink, regular connector, and female detachable.
 
 ## Shipping
-**Price:**
-
+**Price:**  
 | Shipping:        | USPS First Class | USPS First Class (>8oz) |
 |:-----------------|:----------------:|:-----------------------:|
 | USA, Puerto Rico | $3.79            | $4.00                   |
