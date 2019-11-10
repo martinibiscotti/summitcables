@@ -10,7 +10,7 @@
 Hi, welcome to the Summit Catalog v2!
 
 You will find everything of importance here, including some extras, like information about future Group Buys.  
-I am based out of Oregon, United States and all of my Cable Drops will be in the Pacific time zone.  
+I am based out of Oregon in the United States, and all of my Cable Drops will be in the Pacific time zone.  
 I highly suggest joining the Discord, as it’s the best way to interact with the community and learn more.
 
 Thanks!  
@@ -24,7 +24,7 @@ Thanks!
 * Discord: [https://discord.gg/summitcables](https://discord.gg/summitcables)
 
 # Group Buy Schedule
-We are currently taking orders using a Google Form which opens up every Saturday at [10:00 AM PT](https://time.is/PT) located at [this link to the ordering form](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform).
+We are currently taking orders using a Google Form which opens up every Saturday at [10:00 AM PT](https://time.is/PT) located at [this link](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform).
 
 Keep in mind that all times are subject to change. In the event of any changes, an announcement will be posted in the Summitcables Discord.
 
@@ -85,7 +85,7 @@ We will be updating this list from time to time, so be on the lookout!
 ## Heatshrink
 **Price:** $0.00 (included in base)
 
-**Information:** These strips of color will go on the ends of connectors and between detachables. They are also used in accents.
+**Information:** These strips of color will go on the ends of connectors and between detachables. They are also used in [accents](#accents).
 
 | ![](heatshrink/black.png)<br/>**Black**   | ![](heatshrink/blue.png)<br/>**Blue**                 | ![](heatshrink/brown.png)<br/>**Brown** | ![](heatshrink/burnt-orange.png)<br/>**Burnt Orange** |
 |:-----------------------------------------:|:-----------------------------------------------------:|:---------------------------------------:|:-----------------------------------------------------:|
@@ -163,7 +163,7 @@ All colored detachables are unique to and only obtainable through Summitcables.
 ## Accents
 **Price:** $3.50
 
-**Information:** Accents are colored stripes made out of heatshrink that are attached on your detachable. Please refer to the [heatshrink section](#heatshrink) for accent color options.
+**Information:** Accents are colored stripes made out of heatshrink that are attached to your detachable. Please refer to the [heatshrink section](#heatshrink) for accent color options.
 
 <p align="center">
   <img src="https://summitcables.github.io/heatshrink/accents.png">
