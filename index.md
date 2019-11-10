@@ -4,7 +4,7 @@
 
 ### [Ordering Form / Opens 10:00 AM PT / 11-9-19](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform)
 
-### [https://time.is/pt]
+### [https://time.is/pt](https://time.is/pt)
 
 # About Us
 Hi, welcome to the Summit Catalog v2!
