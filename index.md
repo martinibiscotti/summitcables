@@ -151,7 +151,7 @@ All colored detachables are unique to and only obtainable through Summitcables.
 | ![](aviator/ce-raven-black.png)<br/>**CE Raven Black**     | ![](aviator/ce-royal-purple.png)<br/>**CE Royal Purple**   | ![](aviator/ce-sakura.png)<br/>**CE Sakura**       | ![](aviator/ce-sky-blue.jpg)<br/>**CE Sky Blue**             |
 | ![](aviator/silver.png)<br/>**LE 9009**                    | ![](aviator/le-dark-matter.png)<br/>**LE Dark Matter**     | ![](aviator/le-galaxy.png)<br/>**LE Galaxy**       | ![](aviator/le-ghost.png)<br/>**LE Ghost**                   |
 | ![](aviator/le-glacier.png)<br/>**LE Glacier**             | ![](aviator/le-noir.png)<br/>**LE Noir**                   | ![](aviator/le-olive.png)<br/>**LE Olive**         | ![](aviator/le-pink-champagne.png)<br/>**LE Pink Champagne** |
-| ![](aviator/le-wild-purple.png)<br/>**LE Wild Purple**     | ![](aviator/le-yolch.png)<br/>**LE Yolch**                 | ![](aviator/le-questionmark.jpg)<br/>**LE ???**    |                                                              |
+| ![](aviator/le-wild-purple.png)<br/>**LE Wild Purple**     | ![](aviator/le-yolch.png)<br/>**LE Yolch**                 | ![](aviator/le-something-gray.png)<br/>**LE ???**    |                                                              |
 
 ### Push-Pull
 
