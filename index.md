@@ -28,11 +28,11 @@ We are currently taking orders using a Google Form which opens up every Saturday
 
 Keep in mind that all times are subject to change. In the event of any changes, an announcement will be posted in the Summitcables Discord.
 
-| Nov 9                     | Nov 16      | Nov 23          |
-|:-------------------------:|:-----------:|:---------------:|
-| LE Noir R2                | LE Redux    | LE Secret :shh: |
-| 3 options + Anything goes | All options | 3 options       |
-| 35 units                  | 50 units    | 50 units        |
+| Nov 16                                            | Nov 23      | Nov 30          |
+|:-------------------------------------------------:|:-----------:|:---------------:|
+| CE Raven Black (Push-Pull)</br>Silver (Push-Pull) | LE Redux    | LE Secret :shh: |
+| All options                                       | All options | 3 options       |
+| 50 units                                          | 50 units    | 50 units        |
 
 
 # Terms of Service
