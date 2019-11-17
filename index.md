@@ -131,7 +131,6 @@ This connector plugs into your device, i.e. your keyboard or phone.
 | Type:     | Silver | CE     | LE     | SE     |
 |:----------|:------:|:------:|:------:|:------:|
 | Aviator   | $11.00 | $20.00 | $20.00 | $20.00 |
-| Push-Pull | TBA    | TBA    | TBA    | TBA    |
 
 Detachable connectors functionally allow for ease and flow when interchanging USB connectors, while also preserving the lifespan of your USB cable’s receptacle and looking extremely cool on your desk.
 
@@ -153,13 +152,6 @@ All colored detachables are unique to and only obtainable through Summitcables.
 | ![](aviator/le-glacier.png)<br/>**LE Glacier**             | ![](aviator/le-noir.png)<br/>**LE Noir**                   | ![](aviator/le-olive.png)<br/>**LE Olive**         | ![](aviator/le-pink-champagne.png)<br/>**LE Pink Champagne** |
 | ![](aviator/le-wild-purple.png)<br/>**LE Wild Purple**     | ![](aviator/le-yolch.png)<br/>**LE Yolch**                 | ![](aviator/le-something-gray.png)<br/>**LE ???**    |                                                              |
 
-### Push-Pull
-
-| ![](push-pull/silver.png)<br/>**Silver**         | ![](push-pull/ce-gunmetal-gray.png)<br/>**CE Gunmetal Gray** |
-|:------------------------------------------------:|:------------------------------------------------------------:|
-| ![](push-pull/le-glacier.png)<br/>**LE Glacier** |                                                              |
-
-
 ## Accents
 **Price:** $3.50
 
@@ -175,7 +167,6 @@ All colored detachables are unique to and only obtainable through Summitcables.
 | Detachable: | Silver  | Colored |
 |:------------|:-------:|:-------:|
 | Aviator     | $21.00  | $26.00  |
-| Push-Pull   | TBA     | TBA     |
 
 Extra ends cover 5 in of wire and paracord, heatshrink, regular connector, and female detachable.
 
