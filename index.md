@@ -2,7 +2,7 @@
   <img src="https://summitcables.github.io/logo.png">
 </p>
 
-### [(Click Here) Ordering Form / Opens 10:00 AM PT / 11-16-19](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform)
+### [(Click Here) Ordering Form / Opens 10:00 AM PT / 11-23-19](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform)
 
 ### [https://time.is/pt](https://time.is/pt)
 
@@ -30,9 +30,9 @@ Keep in mind that all times are subject to change. In the event of any changes, 
 
 | Nov 16                                            | Nov 23      | Nov 30          |
 |:-------------------------------------------------:|:-----------:|:---------------:|
-| CE Raven Black (Push-Pull)<br/>Silver (Push-Pull) | LE Redux    | LE Secret :shh: |
-| All options                                       | All options | 3 options       |
-| 50 units                                          | 50 units    | 50 units        |
+| BREAK WEEK                                        | LE Redux    | LE Secret :shh: |
+|                                                   | All options | 3 options       |
+|                                                   | 50 units    | 50 units        |
 
 
 # Terms of Service
