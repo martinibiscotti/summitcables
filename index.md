@@ -28,11 +28,11 @@ We are currently taking orders using a Google Form which opens up every Saturday
 
 Keep in mind that all times are subject to change. In the event of any changes, an announcement will be posted in the Summitcables Discord.
 
-| Nov 16                                            | Nov 23      | Nov 30          |
-|:-------------------------------------------------:|:-----------:|:---------------:|
-| BREAK WEEK                                        | LE Redux    | LE Secret :shh: |
-|                                                   | All options | 3 options       |
-|                                                   | 50 units    | 50 units        |
+| Nov 23         | Nov 30      | Dec 07       |
+|:--------------:|:-----------:|:------------:|
+| LE Black Widow | LE Glacier  | LE Frozen    |
+| All options    | All options | All options  |
+| 50 units       | 50 units    | 50 units     |
 
 
 # Terms of Service
