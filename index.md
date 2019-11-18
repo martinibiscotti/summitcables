@@ -36,7 +36,7 @@ Keep in mind that all times are subject to change. In the event of any changes, 
 
 
 # Terms of Service
-* 7-14 business day turnaround time
+* 3-7 business day turnaround time
 * 14 day return policy
 * No refunds unless authorized (misorders, rent is due, etc.)
 
