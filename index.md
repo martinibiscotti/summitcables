@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://summitcables.github.io/logo.png">
+  <img src="https://summitcables.com/logo.png">
 </p>
 
 ### [(Click Here) Ordering Form / Opens 10:00 AM PT / 11-23-19](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform)
@@ -158,7 +158,7 @@ All colored detachables are unique to and only obtainable through Summitcables.
 **Information:** Accents are colored stripes made out of heatshrink that are attached to your detachable. Please refer to the [heatshrink section](#heatshrink) for accent color options.
 
 <p align="center">
-  <img src="https://summitcables.github.io/heatshrink/accents.png">
+  <img src="https://summitcables.com/heatshrink/accents.png">
 </p>
 
 ## Extra Ends
