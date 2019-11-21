@@ -31,7 +31,7 @@ Keep in mind that all times are subject to change. In the event of any changes, 
 | Nov 23         | Nov 30      | Dec 07       |
 |:--------------:|:-----------:|:------------:|
 | LE Black Widow | LE Glacier  | LE Frozen    |
-| All options    | All options | All options  |
+| 3 options      | All options | All options  |
 | 50 units       | 50 units    | 50 units     |
 
 # Terms of Service
