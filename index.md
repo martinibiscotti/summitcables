@@ -2,7 +2,7 @@
   <img src="https://summitcables.com/logo.png">
 </p>
 
-### [(Click Here) Ordering Form / Opens 10:00 AM PT / 11-23-19](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform)
+### [(Click Here) Ordering Form / Opens 10:00 AM PT / 11-30-19](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform)
 
 ### [https://time.is/pt](https://time.is/pt)
 
@@ -28,11 +28,11 @@ We are currently taking orders using a Google Form which opens up every Saturday
 
 Keep in mind that all times are subject to change. In the event of any changes, an announcement will be posted in the Summitcables Discord.
 
-| Nov 23         | Nov 30      | Dec 07       |
-|:--------------:|:-----------:|:------------:|
-| [LE Black Widow](https://i.imgur.com/exyjI3K.jpg) | LE Dracula  | LE Rose Gold    |
-| All options    | All options | All options  |
-| 50 units       | 50 units    | 50 units     |
+| Nov 30         | Dec 07        | Dec 14       |
+|:--------------:|:-------------:|:------------:|
+| LE Dracula     | LE Rose Gold  | TBA          |
+| All options    | All options   | TBA          |
+| 50 units       | 50 units      | TBA          |
 
 # Terms of Service
 * 3-7 business day turnaround time
