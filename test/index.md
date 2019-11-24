@@ -23,6 +23,12 @@ Thanks!
 * Reddit: [https://reddit.com/u/kbnote](https://reddit.com/u/kbnote)
 * Discord: [https://discord.gg/summitcables](https://discord.gg/summitcables)
 
+> Summitcables  
+> 740 NE 3RD ST  
+> STE 3 # 346  
+> Bend, OR 97701  
+> United States   
+
 # Group Buy Schedule
 We are currently taking orders using a Google Form which opens up every Saturday at [10:00 AM PT](https://time.is/PT) located at [this link](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform).
 
@@ -216,3 +222,6 @@ Extra ends cover 5 in of wire and paracord, heatshrink, regular connector, and f
 | International    | $14.00           | $22.50                  |
 
 ###### | [previous section](#extra-ends) | [return to top](#table-of-contents) | next section |
+
+---
+###### © 2019 Summitcables
