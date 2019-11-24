@@ -23,26 +23,48 @@ Thanks!
 * Reddit: [https://reddit.com/u/kbnote](https://reddit.com/u/kbnote)
 * Discord: [https://discord.gg/summitcables](https://discord.gg/summitcables)
 
+> Summitcables  
+> 740 NE 3RD ST  
+> STE 3 # 346  
+> Bend, OR 97701  
+> United States   
+
 # Group Buy Schedule
 We are currently taking orders using a Google Form which opens up every Saturday at [10:00 AM PT](https://time.is/PT) located at [this link](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform).
 
 Keep in mind that all times are subject to change. In the event of any changes, an announcement will be posted in the Summitcables Discord.
 
-| Nov 30         | Dec 07        | Dec 14       |
-|:--------------:|:-------------:|:------------:|
-| LE Dracula     | LE Rose Gold  | TBA          |
-| All options    | All options   | TBA          |
-| 50 units       | 50 units      | TBA          |
+| Nov 30      | Dec 07        | Dec 14       |
+|:-----------:|:-------------:|:------------:|
+| LE Dracula  | LE Rose Gold  | TBA          |
+| All options | All options   | TBA          |
+| 50 units    | 50 units      | TBA          |
 
 # Terms of Service
 * 3-7 business day turnaround time
 * 14 day return policy
 * No refunds unless authorized (misorders, rent is due, etc.)
 
+# Table of Contents
+1. **[Base](#base)**
+2. **[Paracord](#paracord)**
+3. **[Techflex](#techflex)**
+4. **[Heatshrink](#heatshrink)**
+5. **[Host Connector](#host-connector)**
+6. **[Device Connector](#device-connector)**
+7. **[Coil](#coil)**
+8. **[Detachable](#detachable)**
+    * **[Aviator](#aviator)**
+9. **[Accents](#accents)**
+10. **[Extra Ends](#extra-ends)**
+11. **[Shipping](#shipping)**
+
 ## Base
 **Price:** $20.00
 
 **Information:** Base covers 1 ft of wire and paracord, heatshrink, and silver USB Type A/Mini B/Micro B connectors.
+
+###### | previous section | [return to top](#table-of-contents) | [next section](#paracord) |
 
 ## Paracord
 **Price:** $0.50 per ft (1 ft included in Base)
@@ -69,6 +91,8 @@ We will be updating this list from time to time, so be on the lookout!
 | [![](paracord/strawberry-fields.jpg)](https://i.imgur.com/KXqP4Td.jpg)<br/>**Strawberry Fields**           | [![](paracord/sugar-rush.jpg)](https://i.imgur.com/U8RdqKH.jpg)<br/>**Sugar Rush**                           | [![](paracord/tan.jpg)](https://i.imgur.com/OpwdluS.jpg)<br/>**Tan**                                             | [![](paracord/thin-blue-line.jpg)](https://i.imgur.com/X7MEpvI.jpg)<br/>**Thin Blue Line**     |
 | [![](paracord/turquoise.jpg)](https://i.imgur.com/s8e1XHW.jpg)<br/>**Turquoise**                           | [![](paracord/ufo.jpg)](https://i.imgur.com/D7hy1yd.jpg)<br/>**UFO**                                         | [![](paracord/white.jpg)](https://i.imgur.com/IhJ2Lg0.jpg)<br/>**White**                                         | [![](paracord/zebra.jpg)](https://i.imgur.com/8NgqOL6.jpg)<br/>**Zebra**                       |
 
+###### | [previous section](#base) | [return to top](#table-of-contents) | [next section](#techflex) |
+
 ## Techflex
 **Price:** $1.00 per ft
 
@@ -81,6 +105,8 @@ We will be updating this list from time to time, so be on the lookout!
 | ![](techflex/neon-yellow.png)<br/>**Neon Yellow** | ![](techflex/orange.png)<br/>**Orange** | ![](techflex/purple.png)<br/>**Purple**         | ![](techflex/red.png)<br/>**Red**                 |
 | ![](techflex/white.png)<br/>**White**             |                                         |                                                 |                                                   |
 
+###### | [previous section](#paracord) | [return to top](#table-of-contents) | [next section](#heatshrink) |
+
 ## Heatshrink
 **Price:** $0.00 (included in base)
 
@@ -92,6 +118,8 @@ We will be updating this list from time to time, so be on the lookout!
 | ![](heatshrink/orange.png)<br/>**Orange** | ![](heatshrink/purple.png)<br/>**Purple**             | ![](heatshrink/red.png)<br/>**Red**     | ![](heatshrink/white.png)<br/>**White**               |
 | ![](heatshrink/yellow.png)<br/>**Yellow** |                                                       |                                         |                                                       |
 
+###### | [previous section](#techflex) | [return to top](#table-of-contents) | [next section](#host-connector) |
+
 ## Host Connector
 **Price:**
 
@@ -100,6 +128,8 @@ We will be updating this list from time to time, so be on the lookout!
 | USB Type A 2.0 | $0.00 (included in base) | $0.75 |
 
 This connector plugs into your host, i.e. your computer.
+
+###### | [previous section](#heatshrink) | [return to top](#table-of-contents) | [next section](#device-connector) |
 
 ## Device Connector
 **Price:**
@@ -112,6 +142,8 @@ This connector plugs into your host, i.e. your computer.
 
 This connector plugs into your device, i.e. your keyboard or phone.
 
+###### | [previous section](#host-connector) | [return to top](#table-of-contents) | [next section](#coil) |
+
 ## Coil
 * 4 in coil (covers 3 ft of cable)
   * **Price:** $5.00
@@ -123,6 +155,8 @@ This connector plugs into your device, i.e. your keyboard or phone.
   * **Price:** $8.00
 * 8 in coil (covers 7 ft of cable)
   * **Price:** $9.00
+
+###### | [previous section](#device-connector) | [return to top](#table-of-contents) | [next section](#detachable) |
 
 ## Detachable
 **Price:**
@@ -141,6 +175,8 @@ The **Special Edition series**, also known as the **SE-series**, is a range of c
 
 All colored detachables are unique to and only obtainable through Summitcables.
 
+###### | [previous section](#coil) | [return to top](#table-of-contents) | [next section](#aviator) |
+
 ### Aviator
 
 | [![](aviator/silver.png)](https://i.imgur.com/iMuDc3j.jpg)<br/>**Silver**                       | [![](aviator/ce-beige.png)](https://i.imgur.com/Zb5fn5i.jpg)<br/>**CE Beige**                 | [![](aviator/ce-blue-gray.png)](https://i.imgur.com/yRd91Q6.jpg)<br/>**CE Blue Gray** | [![](aviator/ce-crimson-red.png)](https://i.imgur.com/NgIjoLw.jpg)<br/>**CE Crimson Red**       |
@@ -151,6 +187,9 @@ All colored detachables are unique to and only obtainable through Summitcables.
 | [![](aviator/le-glacier.png)](https://i.imgur.com/XdenXZf.jpg)<br/>**LE Glacier**               | [![](aviator/le-noir.png)](https://i.imgur.com/SYz1jO0.png)<br/>**LE Noir**                   | [![](aviator/le-olive.png)](https://i.imgur.com/PI6Pa7b.jpg)<br/>**LE Olive**         | [![](aviator/le-pink-champagne.png)](https://i.imgur.com/u5IL4YF.jpg)<br/>**LE Pink Champagne** |
 | [![](aviator/le-pink-rose-gold.jpg)](https://i.imgur.com/M0x7g4c.jpg)<br/>**LE Pink Rose Gold** | [![](aviator/le-wild-purple.png)](https://i.imgur.com/wtZKZNi.jpg)<br/>**LE Wild Purple**     | [![](aviator/le-yolch.png)](https://i.imgur.com/0zuzHT3.jpg)<br/>**LE Yolch**         | [![](aviator/le-something-gray.png)](https://i.imgur.com/BgTRrZb.jpg)<br/>**LE ???**            |
 
+###### | [previous section](#detachable) | [return to top](#table-of-contents) | [next section](#accents) |
+
+
 ## Accents
 **Price:** $3.50
 
@@ -159,6 +198,8 @@ All colored detachables are unique to and only obtainable through Summitcables.
 <p align="center">
   <img src="https://summitcables.com/heatshrink/accents.png">
 </p>
+
+###### | [previous section](#aviator) | [return to top](#table-of-contents) | [next section](#extra-ends) |
 
 ## Extra Ends
 **Price:**
@@ -169,6 +210,8 @@ All colored detachables are unique to and only obtainable through Summitcables.
 
 Extra ends cover 5 in of wire and paracord, heatshrink, regular connector, and female detachable.
 
+###### | [previous section](#accents) | [return to top](#table-of-contents) | [next section](#shipping) |
+
 ## Shipping
 **Price:**
 
@@ -177,3 +220,8 @@ Extra ends cover 5 in of wire and paracord, heatshrink, regular connector, and f
 | USA, Puerto Rico | $3.79            | $4.00                   |
 | Canada           | $10.00           | $10.00                  |
 | International    | $14.00           | $22.50                  |
+
+###### | [previous section](#extra-ends) | [return to top](#table-of-contents) | next section |
+
+---
+###### © 2019 Summitcables
