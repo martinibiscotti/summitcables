@@ -205,7 +205,7 @@ All colored detachables are unique to and only obtainable through Summitcables.
 
 ## Themes
 
-Please refer to [this page](themes.md) for our list of available themes.
+Please refer to [this page](themes) for our list of available themes.
 
 ###### | [previous section](#accents) | [return to top](#table-of-contents) | [next section](#extra-ends) |
 
