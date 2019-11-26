@@ -59,6 +59,7 @@ Keep in mind that all times are subject to change. In the event of any changes, 
 10. **[Themes](#themes)**
 11. **[Extra Ends](#extra-ends)**
 12. **[Shipping](#shipping)**
+13. **[Quality Control](#quality-control)**
 
 ## Base
 **Price:** $20.00
@@ -228,7 +229,27 @@ Extra ends cover 5 in of wire and paracord, heatshrink, regular connector, and f
 | Canada           | $10.00           | $10.00                  |
 | International    | $14.00           | $22.50                  |
 
-###### | [previous section](#extra-ends) | [return to top](#table-of-contents) | next section |
+All orders will be shipped in a custom [Summitbox](https://imgur.com/a/uRzErMs) to protect your cables in transit.
+
+Please keep in mind that shipping may be affected by unforeseen circumstances such as weather conditions or delays on carrier end.
+
+###### | [previous section](#extra-ends) | [return to top](#table-of-contents) | [next section](#quality-control) |
+
+## Quality Control
+
+Each cable is checked by Chris before being shipped to ensure that it is in working condition.  
+If you're having an issue with your cable, please try the following steps:
+
+1. Ensure the cable is plugged in properly on both the device and host end.
+2. Try using the cable on another device or host.
+3. Ensure your cable is not being bent on either end.
+4. Update your USB drivers.
+
+Should you still face a problem, feel free to reach out to support@summitcables.com
+
+>All cables made by Summitcables are USB 2.0, hence they are not compatible with newer USB standards such as USB 3.0, USB 3.1, USB-PD, etc.
+
+###### | [previous section](#shipping) | [return to top](#table-of-contents) | next section |
 
 ---
 ###### © 2019 Summitcables
