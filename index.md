@@ -64,14 +64,14 @@ Keep in mind that all times are subject to change. In the event of any changes, 
 ## Base
 **Price:** $20.00
 
-**Information:** Base covers 1 ft of wire and paracord, heatshrink, and silver USB Type A/Mini B/Micro B connectors.
+Base covers 1 ft of wire and paracord, heatshrink, and silver USB Type A/Mini B/Micro B connectors.
 
 ###### | previous section | [return to top](#table-of-contents) | [next section](#paracord) |
 
 ## Paracord
 **Price:** $0.50 per ft (1 ft included in Base)
 
-**Information:** Type III Paracord is the commerical version of Mil Spec 550 Parachute Cord, also known as Mil Spec Paracord or Mil Spec 550 Paracord. This Nylon 550 cord is smooth and pliable which makes it nice to handle. The high 550 lb tensile strength gives it superior strength and durability. It resists rot, mildew, and UV damage.
+Paracord is a lightweight nylon [kernmantle rope](https://en.wikipedia.org/wiki/Kernmantle_rope), which is used to sleeve the cable wire.
 
 We will be updating this list from time to time, so be on the lookout!
 
@@ -98,7 +98,7 @@ We will be updating this list from time to time, so be on the lookout!
 ## Techflex
 **Price:** $1.00 per ft
 
-**Information:** Techflex, also known as double-sleeving, is a second layer of sleeving which covers the paracord. It adds an extra layer of durability and rigidity to the cable and endless possibilities for color combinations. We always recommend adding Techflex when ordering coiled cables as they keep the cable cleaner and more durable.
+Techflex, also known as double-sleeving, is a second layer of sleeving which covers the paracord.
 
 | ![](techflex/aqua.png)<br/>**Aqua**               | ![](techflex/beige.png)<br/>**Beige**   | ![](techflex/black.png)<br/>**Black**           | ![](techflex/blue.png)<br/>**Blue**               |
 |:-------------------------------------------------:|:---------------------------------------:|:-----------------------------------------------:|:-------------------------------------------------:|
@@ -112,7 +112,7 @@ We will be updating this list from time to time, so be on the lookout!
 ## Heatshrink
 **Price:** $0.00 (included in base)
 
-**Information:** These strips of color will go on the ends of connectors and between detachables. They are also used in [accents](#accents).
+Heatshrinks are shrinkable plastic tubes used around the cable ends and connectors. They are also used in [accents](#accents).
 
 | ![](heatshrink/black.png)<br/>**Black**   | ![](heatshrink/blue.png)<br/>**Blue**                 | ![](heatshrink/brown.png)<br/>**Brown** | ![](heatshrink/burnt-orange.png)<br/>**Burnt Orange** |
 |:-----------------------------------------:|:-----------------------------------------------------:|:---------------------------------------:|:-----------------------------------------------------:|
@@ -147,6 +147,8 @@ This connector plugs into your device, i.e. your keyboard or phone.
 ###### | [previous section](#host-connector) | [return to top](#table-of-contents) | [next section](#coil) |
 
 ## Coil
+**Price:**
+
 * 4 in coil (covers 3 ft of cable)
   * **Price:** $5.00
 * 5 in coil (covers 4 ft of cable)
@@ -158,6 +160,14 @@ This connector plugs into your device, i.e. your keyboard or phone.
 * 8 in coil (covers 7 ft of cable)
   * **Price:** $9.00
 
+| Coil | Length of cable covered | Price |
+|:----:|:-----------------------:|:------|
+| 4 in | 3 ft of cable           | $5.00 |
+| 5 in | 4 ft of cable           | $6.00 |
+| 6 in | 5 ft of cable           | $7.00 |
+| 7 in | 6 ft of cable           | $8.00 |
+| 8 in | 7 ft of cable           | $9.00 |
+
 ###### | [previous section](#device-connector) | [return to top](#table-of-contents) | [next section](#detachable) |
 
 ## Detachable
@@ -167,13 +177,13 @@ This connector plugs into your device, i.e. your keyboard or phone.
 |:----------|:------:|:------:|:------:|:------:|
 | Aviator   | $11.00 | $20.00 | $20.00 | $20.00 |
 
-Detachable connectors functionally allow for ease and flow when interchanging USB connectors, while also preserving the lifespan of your USB cable’s receptacle and looking extremely cool on your desk.
+Detachable connectors functionally allow for ease and flow when interchanging USB connectors while also preserving the lifespan of your USB cable’s receptacle.
 
 The **Collector’s Edition series**, also known as the **CE-series**, is a range of always in-stock colored detachables. CE detachables will be offered every group buy.
 
-The **Limited Edition series**, also known as the **LE-series**, is a range of very rare colored detachables. LE detachables are limited in stock and will only be offered once, or in some rare cases, every few months. 
+The **Limited Edition series**, also known as the **LE-series**, is a range of very rare colored detachables.
 
-The **Special Edition series**, also known as the **SE-series**, is a range of collaborated colored detachables only made possible due to partnerships made with other vendors within the mechanical keyboard community. SE detachables will only be offered once during special group buys.
+The **Special Edition series**, also known as the **SE-series**, is a range of collaborated colored detachables only made through partnerships with vendors within the community.
 
 All colored detachables are unique to and only obtainable through Summitcables.
 
@@ -195,7 +205,7 @@ All colored detachables are unique to and only obtainable through Summitcables.
 ## Accents
 **Price:** $3.50
 
-**Information:** Accents are colored stripes made out of heatshrink that are attached to your detachable. Please refer to the [heatshrink section](#heatshrink) for accent color options.
+Accents are colored stripes made out of heatshrink that are attached to your detachable. Please refer to the [heatshrink section](#heatshrink) for accent color options.
 
 <p align="center">
   <img src="https://summitcables.com/heatshrink/accents.png">
