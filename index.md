@@ -149,24 +149,13 @@ This connector plugs into your device, i.e. your keyboard or phone.
 ## Coil
 **Price:**
 
-* 4 in coil (covers 3 ft of cable)
-  * **Price:** $5.00
-* 5 in coil (covers 4 ft of cable)
-  * **Price:** $6.00
-* 6 in coil (covers 5 ft of cable)
-  * **Price:** $7.00
-* 7 in coil (covers 6 ft of cable)
-  * **Price:** $8.00
-* 8 in coil (covers 7 ft of cable)
-  * **Price:** $9.00
-
-| Coil | Length of cable covered | Price |
-|:----:|:-----------------------:|:------|
-| 4 in | 3 ft of cable           | $5.00 |
-| 5 in | 4 ft of cable           | $6.00 |
-| 6 in | 5 ft of cable           | $7.00 |
-| 7 in | 6 ft of cable           | $8.00 |
-| 8 in | 7 ft of cable           | $9.00 |
+| Coil | Length               | Price |
+|:----:|:--------------------:|:------|
+| 4 in | Covers 3 ft of cable | $5.00 |
+| 5 in | Covers 4 ft of cable | $6.00 |
+| 6 in | Covers 5 ft of cable | $7.00 |
+| 7 in | Covers 6 ft of cable | $8.00 |
+| 8 in | Covers 7 ft of cable | $9.00 |
 
 ###### | [previous section](#device-connector) | [return to top](#table-of-contents) | [next section](#detachable) |
 
@@ -183,7 +172,7 @@ The **Collector’s Edition series**, also known as the **CE-series**, is a rang
 
 The **Limited Edition series**, also known as the **LE-series**, is a range of very rare colored detachables.
 
-The **Special Edition series**, also known as the **SE-series**, is a range of collaborated colored detachables only made through partnerships with vendors within the community.
+The **Special Edition series**, also known as the **SE-series**, is a range of colored detachables only made through partnerships with vendors within the community.
 
 All colored detachables are unique to and only obtainable through Summitcables.
 
