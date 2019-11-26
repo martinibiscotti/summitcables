@@ -56,8 +56,9 @@ Keep in mind that all times are subject to change. In the event of any changes, 
 8. **[Detachable](#detachable)**
     * **[Aviator](#aviator)**
 9. **[Accents](#accents)**
-10. **[Extra Ends](#extra-ends)**
-11. **[Shipping](#shipping)**
+10. **[Themes](#themes)**
+11. **[Extra Ends](#extra-ends)**
+12. **[Shipping](#shipping)**
 
 ## Base
 **Price:** $20.00
@@ -199,7 +200,13 @@ All colored detachables are unique to and only obtainable through Summitcables.
   <img src="https://summitcables.com/heatshrink/accents.png">
 </p>
 
-###### | [previous section](#aviator) | [return to top](#table-of-contents) | [next section](#extra-ends) |
+###### | [previous section](#aviator) | [return to top](#table-of-contents) | [next section](#themes) |
+
+## Themes
+
+Please refer to [this page](themes.md) for our list of available themes.
+
+###### | [previous section](#accents) | [return to top](#table-of-contents) | [next section](#extra-ends) |
 
 ## Extra Ends
 **Price:**
@@ -210,7 +217,7 @@ All colored detachables are unique to and only obtainable through Summitcables.
 
 Extra ends cover 5 in of wire and paracord, heatshrink, regular connector, and female detachable.
 
-###### | [previous section](#accents) | [return to top](#table-of-contents) | [next section](#shipping) |
+###### | [previous section](#themes) | [return to top](#table-of-contents) | [next section](#shipping) |
 
 ## Shipping
 **Price:**
