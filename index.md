@@ -56,7 +56,7 @@ Keep in mind that all times are subject to change. In the event of any changes, 
 6. **[Device Connector](#device-connector)**
 7. **[Coil](#coil)**
 8. **[Detachable](#detachable)**
-    * **[Aviator](#aviator)**
+    * **[GX16](#GX16)**
 9. **[Accents](#accents)**
 10. **[Themes](#themes)**
 11. **[Extra Ends](#extra-ends)**
@@ -74,8 +74,6 @@ Base covers 1 ft of wire and paracord, heatshrink, and silver USB Type A/Mini B/
 **Price:** $0.50 per ft (1 ft included in Base)
 
 Paracord is a lightweight nylon [kernmantle rope](https://en.wikipedia.org/wiki/Kernmantle_rope), which is used to sleeve the cable wire.
-
-We will be updating this list from time to time, so be on the lookout!
 
 | [![](paracord/aloha.jpg)](https://i.imgur.com/120Cqo1.jpg)<br/>**Aloha**                                   | [![](paracord/apocalypse.jpg)](https://i.imgur.com/n9Q077I.jpg)<br/>**Apocalypse**                           | [![](paracord/banana.jpg)](https://i.imgur.com/dI49Nti.jpg)<br/>**Banana**                                       | [![](paracord/black.jpg)](https://i.imgur.com/G8r6deW.jpg)<br/>**Black**                       |
 |:---------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|
@@ -142,7 +140,7 @@ This connector plugs into your host, i.e. your computer.
 |:---------------|:------------------------:|:-----:|
 | USB Mini B     | $0.00 (included in base) | $0.75 |
 | USB Micro B    | $0.00 (included in base) | $0.75 |
-| USB Type C 2.0 | $2.00                    | -     |
+| USB Type C 2.0 | $2.00                    |   -   |
 
 This connector plugs into your device, i.e. your keyboard or phone.
 
@@ -166,7 +164,7 @@ This connector plugs into your device, i.e. your keyboard or phone.
 
 | Type:     | Silver | CE     | LE     | SE     |
 |:----------|:------:|:------:|:------:|:------:|
-| Aviator   | $11.00 | $20.00 | $20.00 | $20.00 |
+| GX16      | $11.00 | $20.00 | $20.00 | $20.00 |
 
 Detachable connectors functionally allow for ease and flow when interchanging USB connectors while also preserving the lifespan of your USB cable’s receptacle.
 
@@ -178,20 +176,19 @@ The **Special Edition series**, also known as the **SE-series**, is a range of c
 
 All colored detachables are unique to and only obtainable through Summitcables.
 
-###### | [previous section](#coil) | [return to top](#table-of-contents) | [next section](#aviator) |
+###### | [previous section](#coil) | [return to top](#table-of-contents) | [next section](#GX16) |
 
-### Aviator
+### GX16
 
-| [![](aviator/silver.png)](https://i.imgur.com/iMuDc3j.jpg)<br/>**Silver**                       | [![](aviator/ce-beige.png)](https://i.imgur.com/Zb5fn5i.jpg)<br/>**CE Beige**                 | [![](aviator/ce-blue-gray.png)](https://i.imgur.com/yRd91Q6.jpg)<br/>**CE Blue Gray** | [![](aviator/ce-crimson-red.png)](https://i.imgur.com/NgIjoLw.jpg)<br/>**CE Crimson Red**       |
+| [![](gx16/silver.png)](https://i.imgur.com/iMuDc3j.jpg)<br/>**Silver**                       | [![](gx16/ce-beige.png)](https://i.imgur.com/Zb5fn5i.jpg)<br/>**CE Beige**                 | [![](gx16/ce-blue-gray.png)](https://i.imgur.com/yRd91Q6.jpg)<br/>**CE Blue Gray** | [![](gx16/ce-crimson-red.png)](https://i.imgur.com/NgIjoLw.jpg)<br/>**CE Crimson Red**       |
 |:-----------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|
-| [![](aviator/ce-everest-white.png)](https://i.imgur.com/NXytPiM.jpg)<br/>**CE Everest White**   | [![](aviator/ce-gunmetal-gray.png)](https://i.imgur.com/uPKLYKt.jpg)<br/>**CE Gunmetal Gray** | [![](aviator/ce-hot-pink.png)](https://i.imgur.com/RbmZHEV.jpg)<br/>**CE Hot Pink**   | [![](aviator/ce-polar-blue.png)](https://i.imgur.com/FPaMp4s.jpg)<br/>**CE Polar Blue**         |
-| [![](aviator/ce-raven-black.png)](https://i.imgur.com/MMZ8met.jpg)<br/>**CE Raven Black**       | [![](aviator/ce-royal-purple.png)](https://i.imgur.com/9Wnz7HH.jpg)<br/>**CE Royal Purple**   | [![](aviator/ce-sakura.png)](https://i.imgur.com/FzzVzdc.jpg)<br/>**CE Sakura**       | [![](aviator/ce-sky-blue.jpg)](https://i.imgur.com/olYWmmZ.jpg)<br/>**CE Sky Blue**             |
-| [![](aviator/le-9009.png)](https://i.imgur.com/Pzea2yg.png)<br/>**LE 9009**                     | [![](aviator/le-dark-matter.png)](https://i.imgur.com/MnCNktZ.jpg)<br/>**LE Dark Matter**     | [![](aviator/le-galaxy.png)](https://i.imgur.com/ZdHbs8P.jpg)<br/>**LE Galaxy**       | [![](aviator/le-ghost.png)](https://i.imgur.com/CPckcs2.png)<br/>**LE Ghost**                   |
-| [![](aviator/le-glacier.png)](https://i.imgur.com/XdenXZf.jpg)<br/>**LE Glacier**               | [![](aviator/le-noir.png)](https://i.imgur.com/SYz1jO0.png)<br/>**LE Noir**                   | [![](aviator/le-olive.png)](https://i.imgur.com/PI6Pa7b.jpg)<br/>**LE Olive**         | [![](aviator/le-pink-champagne.png)](https://i.imgur.com/u5IL4YF.jpg)<br/>**LE Pink Champagne** |
-| [![](aviator/le-pink-rose-gold.jpg)](https://i.imgur.com/M0x7g4c.jpg)<br/>**LE Pink Rose Gold** | [![](aviator/le-wild-purple.png)](https://i.imgur.com/wtZKZNi.jpg)<br/>**LE Wild Purple**     | [![](aviator/le-yolch.png)](https://i.imgur.com/0zuzHT3.jpg)<br/>**LE Yolch**         | [![](aviator/le-something-gray.png)](https://i.imgur.com/BgTRrZb.jpg)<br/>**LE ???**            |
+| [![](gx16/ce-everest-white.png)](https://i.imgur.com/NXytPiM.jpg)<br/>**CE Everest White**   | [![](gx16/ce-gunmetal-gray.png)](https://i.imgur.com/uPKLYKt.jpg)<br/>**CE Gunmetal Gray** | [![](gx16/ce-hot-pink.png)](https://i.imgur.com/RbmZHEV.jpg)<br/>**CE Hot Pink**   | [![](gx16/ce-polar-blue.png)](https://i.imgur.com/FPaMp4s.jpg)<br/>**CE Polar Blue**         |
+| [![](gx16/ce-raven-black.png)](https://i.imgur.com/MMZ8met.jpg)<br/>**CE Raven Black**       | [![](gx16/ce-royal-purple.png)](https://i.imgur.com/9Wnz7HH.jpg)<br/>**CE Royal Purple**   | [![](gx16/ce-sakura.png)](https://i.imgur.com/FzzVzdc.jpg)<br/>**CE Sakura**       | [![](gx16/ce-sky-blue.jpg)](https://i.imgur.com/olYWmmZ.jpg)<br/>**CE Sky Blue**             |
+| [![](gx16/le-9009.png)](https://i.imgur.com/Pzea2yg.png)<br/>**LE 9009**                     | [![](gx16/le-dark-matter.png)](https://i.imgur.com/MnCNktZ.jpg)<br/>**LE Dark Matter**     | [![](gx16/le-galaxy.png)](https://i.imgur.com/ZdHbs8P.jpg)<br/>**LE Galaxy**       | [![](gx16/le-ghost.png)](https://i.imgur.com/CPckcs2.png)<br/>**LE Ghost**                   |
+| [![](gx16/le-glacier.png)](https://i.imgur.com/XdenXZf.jpg)<br/>**LE Glacier**               | [![](gx16/le-noir.png)](https://i.imgur.com/SYz1jO0.png)<br/>**LE Noir**                   | [![](gx16/le-olive.png)](https://i.imgur.com/PI6Pa7b.jpg)<br/>**LE Olive**         | [![](gx16/le-pink-champagne.png)](https://i.imgur.com/u5IL4YF.jpg)<br/>**LE Pink Champagne** |
+| [![](gx16/le-pink-rose-gold.jpg)](https://i.imgur.com/M0x7g4c.jpg)<br/>**LE Pink Rose Gold** | [![](gx16/le-wild-purple.png)](https://i.imgur.com/wtZKZNi.jpg)<br/>**LE Wild Purple**     | [![](gx16/le-yolch.png)](https://i.imgur.com/0zuzHT3.jpg)<br/>**LE Yolch**         | [![](gx16/le-something-gray.png)](https://i.imgur.com/BgTRrZb.jpg)<br/>**LE ???**            |
 
 ###### | [previous section](#detachable) | [return to top](#table-of-contents) | [next section](#accents) |
-
 
 ## Accents
 **Price:** $3.50
@@ -202,9 +199,11 @@ Accents are colored stripes made out of heatshrink that are attached to your det
   <img src="https://summitcables.com/heatshrink/accents.png">
 </p>
 
-###### | [previous section](#aviator) | [return to top](#table-of-contents) | [next section](#themes) |
+###### | [previous section](#GX16) | [return to top](#table-of-contents) | [next section](#themes) |
 
 ## Themes
+
+Themes are predetermined color combinations meant to match different keysets.
 
 Please refer to [this page](themes) for our list of available themes.
 
@@ -215,7 +214,7 @@ Please refer to [this page](themes) for our list of available themes.
 
 | Detachable: | Silver  | Colored |
 |:------------|:-------:|:-------:|
-| Aviator     | $21.00  | $26.00  |
+| GX16        | $21.00  | $26.00  |
 
 Extra ends cover 5 in of wire and paracord, heatshrink, regular connector, and female detachable.
 
@@ -246,7 +245,7 @@ If you're having an issue with your cable, please try the following steps:
 3. Ensure your cable is not being bent on either end.
 4. Update your USB drivers.
 
-Should you still face a problem, feel free to reach out to support@summitcables.com
+Should you still face a problem, feel free to reach out to [support@summitcables.com](mailto:support@summitcables.com)
 
 >All cables made by Summitcables are USB 2.0, hence they are not compatible with newer USB standards such as USB 3.0, USB 3.1, USB-PD, etc.
 
