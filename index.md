@@ -12,12 +12,13 @@
 
 Hi, welcome to the Summit Catalog v2!
 
-You will find everything of importance here, including some extras, like information about future Group Buys.  
 I am based out of Oregon in the United States, and all of my Cable Drops will be in the Pacific time zone.  
-I highly suggest joining the Discord, as it’s the best way to interact with the community and learn more.
+You will find all you need to know about Summitcables here, such as information about our available options as well as information about future Group Buys.  
+I highly suggest joining the Discord, as you can ask any other questions you might have and interact with our community.  
 
-Thanks!  
+Thanks! 
 -Chris
+
 
 # Contact Us
 
@@ -176,7 +177,7 @@ This connector plugs into your device, i.e. your keyboard or phone.
 **Price:**
 
 | Type:     | Silver | CE     | LE     | SE     |
-|:----------|:------:|:------:|:------:|:------:|
+|:---------:|:------:|:------:|:------:|:------:|
 | GX16      | $11.00 | $20.00 | $20.00 | $20.00 |
 
 Detachable connectors functionally allow for ease and flow when interchanging USB connectors while also preserving the lifespan of your USB cable’s receptacle.
