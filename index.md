@@ -6,6 +6,8 @@
 
 ### [https://time.is/pt](https://time.is/pt)
 
+### [Price Calculator](calculator)
+
 # About Us
 Hi, welcome to the Summit Catalog v2!
 
