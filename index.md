@@ -43,7 +43,7 @@ Keep in mind that all times are subject to change. In the event of any changes, 
 | Nov 30      | Dec 07        | Dec 14       |
 |:-----------:|:-------------:|:------------:|
 | LE Dracula  | LE Rose Gold  | TBA          |
-| All options | All options   | TBA          |
+| All options & free accents | All options   | TBA          |
 | 50 units    | 50 units      | TBA          |
 
 # Terms of Service
