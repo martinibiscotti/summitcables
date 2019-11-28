@@ -8,7 +8,8 @@
 
 ### [Price Calculator](calculator)
 
-# About Us
+# Welcome
+
 Hi, welcome to the Summit Catalog v2!
 
 You will find everything of importance here, including some extras, like information about future Group Buys.  
@@ -19,6 +20,7 @@ Thanks!
 -Chris
 
 # Contact Us
+
 * Email: [support@summitcables.com](mailto:support@summitcables.com)
 * Instagram: [https://instagram.com/summitcables](https://instagram.com/summitcables)
 * Twitter: [https://twitter.com/summitcables](https://twitter.com/summitcables)
@@ -32,6 +34,7 @@ Thanks!
 > United States   
 
 # Group Buy Schedule
+
 We are currently taking orders using a Google Form which opens up every Saturday at [10:00 AM PT](https://time.is/PT) located at [this link](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform).
 
 Keep in mind that all times are subject to change. In the event of any changes, an announcement will be posted in the Summitcables Discord.
@@ -43,11 +46,13 @@ Keep in mind that all times are subject to change. In the event of any changes, 
 | 50 units    | 50 units      | TBA          |
 
 # Terms of Service
+
 * 3-7 business day turnaround time
 * 14 day return policy
 * No refunds unless authorized (misorders, rent is due, etc.)
 
 # Table of Contents
+
 1. **[Base](#base)**
 2. **[Paracord](#paracord)**
 3. **[Techflex](#techflex)**
@@ -56,21 +61,23 @@ Keep in mind that all times are subject to change. In the event of any changes, 
 6. **[Device Connector](#device-connector)**
 7. **[Coil](#coil)**
 8. **[Detachable](#detachable)**
-    * **[GX16](#GX16)**
+    * **[GX16](#gx16)**
 9. **[Accents](#accents)**
 10. **[Themes](#themes)**
 11. **[Extra Ends](#extra-ends)**
 12. **[Shipping](#shipping)**
 13. **[Quality Control](#quality-control)**
 
-## Base
+## Base[*](#sections-indicated-with-an-asterisk-are-required-other-sections-are-optional)
+
 **Price:** $20.00
 
 Base covers 1 ft of wire and paracord, heatshrink, and silver USB Type A/Mini B/Micro B connectors.
 
 ###### | previous section | [return to top](#table-of-contents) | [next section](#paracord) |
 
-## Paracord
+## Paracord[*](#sections-indicated-with-an-asterisk-are-required-other-sections-are-optional)
+
 **Price:** $0.50 per ft (1 ft included in Base)
 
 Paracord is a lightweight nylon [kernmantle rope](https://en.wikipedia.org/wiki/Kernmantle_rope), which is used to sleeve the cable wire.
@@ -96,6 +103,7 @@ Paracord is a lightweight nylon [kernmantle rope](https://en.wikipedia.org/wiki/
 ###### | [previous section](#base) | [return to top](#table-of-contents) | [next section](#techflex) |
 
 ## Techflex
+
 **Price:** $1.00 per ft
 
 Techflex, also known as double-sleeving, is a second layer of sleeving which covers the paracord.
@@ -109,7 +117,8 @@ Techflex, also known as double-sleeving, is a second layer of sleeving which cov
 
 ###### | [previous section](#paracord) | [return to top](#table-of-contents) | [next section](#heatshrink) |
 
-## Heatshrink
+## Heatshrink[*](#sections-indicated-with-an-asterisk-are-required-other-sections-are-optional)
+
 **Price:** $0.00 (included in base)
 
 Heatshrinks are shrinkable plastic tubes used around the cable ends and connectors. They are also used in [accents](#accents).
@@ -122,7 +131,8 @@ Heatshrinks are shrinkable plastic tubes used around the cable ends and connecto
 
 ###### | [previous section](#techflex) | [return to top](#table-of-contents) | [next section](#host-connector) |
 
-## Host Connector
+## Host Connector[*](#sections-indicated-with-an-asterisk-are-required-other-sections-are-optional)
+
 **Price:**
 
 | Connector:     | Silver                   | Gold  |
@@ -133,7 +143,8 @@ This connector plugs into your host, i.e. your computer.
 
 ###### | [previous section](#heatshrink) | [return to top](#table-of-contents) | [next section](#device-connector) |
 
-## Device Connector
+## Device Connector[*](#sections-indicated-with-an-asterisk-are-required-other-sections-are-optional)
+
 **Price:**
 
 | Connector:     | Silver                   | Gold  |
@@ -147,6 +158,7 @@ This connector plugs into your device, i.e. your keyboard or phone.
 ###### | [previous section](#host-connector) | [return to top](#table-of-contents) | [next section](#coil) |
 
 ## Coil
+
 **Price:**
 
 | Coil | Length               | Price |
@@ -160,6 +172,7 @@ This connector plugs into your device, i.e. your keyboard or phone.
 ###### | [previous section](#device-connector) | [return to top](#table-of-contents) | [next section](#detachable) |
 
 ## Detachable
+
 **Price:**
 
 | Type:     | Silver | CE     | LE     | SE     |
@@ -176,7 +189,7 @@ The **Special Edition series**, also known as the **SE-series**, is a range of c
 
 All colored detachables are unique to and only obtainable through Summitcables.
 
-###### | [previous section](#coil) | [return to top](#table-of-contents) | [next section](#GX16) |
+###### | [previous section](#coil) | [return to top](#table-of-contents) | [next section](#gx16) |
 
 ### GX16
 
@@ -191,6 +204,7 @@ All colored detachables are unique to and only obtainable through Summitcables.
 ###### | [previous section](#detachable) | [return to top](#table-of-contents) | [next section](#accents) |
 
 ## Accents
+
 **Price:** $3.50
 
 Accents are colored stripes made out of heatshrink that are attached to your detachable. Please refer to the [heatshrink section](#heatshrink) for accent color options.
@@ -199,7 +213,7 @@ Accents are colored stripes made out of heatshrink that are attached to your det
   <img src="https://summitcables.com/heatshrink/accents.png">
 </p>
 
-###### | [previous section](#GX16) | [return to top](#table-of-contents) | [next section](#themes) |
+###### | [previous section](#gx16) | [return to top](#table-of-contents) | [next section](#themes) |
 
 ## Themes
 
@@ -210,6 +224,7 @@ Please refer to [this page](themes) for our list of available themes.
 ###### | [previous section](#accents) | [return to top](#table-of-contents) | [next section](#extra-ends) |
 
 ## Extra Ends
+
 **Price:**
 
 | Detachable: | Silver  | Colored |
@@ -221,6 +236,7 @@ Extra ends cover 5 in of wire and paracord, heatshrink, regular connector, and f
 ###### | [previous section](#themes) | [return to top](#table-of-contents) | [next section](#shipping) |
 
 ## Shipping
+
 **Price:**
 
 | Shipping:        | USPS First Class | USPS First Class (>8oz) |
@@ -247,9 +263,12 @@ If you're having an issue with your cable, please try the following steps:
 
 Should you still face a problem, feel free to reach out to [support@summitcables.com](mailto:support@summitcables.com)
 
->All cables made by Summitcables are USB 2.0, hence they are not compatible with newer USB standards such as USB 3.0, USB 3.1, USB-PD, etc.
+> All cables made by Summitcables are USB 2.0, hence they are not compatible with newer USB standards such as USB 3.0, USB 3.1, USB-PD, etc.
 
 ###### | [previous section](#shipping) | [return to top](#table-of-contents) | next section |
 
 ---
+
+###### * Sections indicated with an asterisk are required, other sections are optional.
+
 ###### © 2019 Summitcables
