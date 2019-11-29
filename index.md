@@ -2,11 +2,11 @@
   <img src="https://summitcables.com/logo.png">
 </p>
 
-### [(Click Here) Ordering Form / Opens 10:00 AM PT / 11-30-19](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform)
-
-### [https://time.is/pt](https://time.is/pt)
-
-### [Price Calculator](calculator)
+<h3 align="center">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform">Ordering Form / Opens 10:00 AM PT / 11-30-19</a>
+  <br><br>
+  <a href="https://summitcables.com/calculator">Price Calculator</a>
+</h3>
 
 # Welcome
 
@@ -16,17 +16,16 @@ I am based out of Oregon in the United States, and all of my Cable Drops will be
 You will find all you need to know about Summitcables here, such as information about our available options as well as information about future Group Buys.  
 I highly suggest joining the Discord, as you can ask any other questions you might have and interact with our community.  
 
-Thanks! 
+Thanks!  
 -Chris
-
 
 # Contact Us
 
-* Email: [support@summitcables.com](mailto:support@summitcables.com)
-* Instagram: [https://instagram.com/summitcables](https://instagram.com/summitcables)
-* Twitter: [https://twitter.com/summitcables](https://twitter.com/summitcables)
-* Reddit: [https://reddit.com/u/kbnote](https://reddit.com/u/kbnote)
-* Discord: [https://discord.gg/summitcables](https://discord.gg/summitcables)
+* Email: <support@summitcables.com>
+* Instagram: <https://instagram.com/summitcables>
+* Twitter: <https://twitter.com/summitcables>
+* Reddit: <https://reddit.com/u/kbnote>
+* Discord: <https://discord.gg/summitcables>
 
 > Summitcables  
 > 740 NE 3RD ST  
@@ -38,12 +37,12 @@ Thanks!
 
 We are currently taking orders using a Google Form which opens up every Saturday at [10:00 AM PT](https://time.is/PT) located at [this link](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform).
 
-Keep in mind that all times are subject to change. In the event of any changes, an announcement will be posted in the Summitcables Discord.
+> Keep in mind that all times are subject to change. In the event of any changes, an announcement will be posted in the Summitcables Discord.
 
 | Nov 30      | Dec 07        | Dec 14       |
 |:-----------:|:-------------:|:------------:|
 | LE Dracula  | LE Rose Gold  | TBA          |
-| All options & free accents | All options   | TBA          |
+| All options<br>w/ free accents | All options   | TBA          |
 | 50 units    | 50 units      | TBA          |
 
 # Terms of Service
@@ -69,7 +68,7 @@ Keep in mind that all times are subject to change. In the event of any changes, 
 12. **[Shipping](#shipping)**
 13. **[Quality Control](#quality-control)**
 
-## Base[*](#sections-indicated-with-an-asterisk-are-required-other-sections-are-optional)
+## Base[*](#base "Sections indicated by an asterisk are required.")
 
 **Price:** $20.00
 
@@ -77,7 +76,7 @@ Base covers 1 ft of wire and paracord, heatshrink, and silver USB Type A/Mini B/
 
 ###### | previous section | [return to top](#table-of-contents) | [next section](#paracord) |
 
-## Paracord[*](#sections-indicated-with-an-asterisk-are-required-other-sections-are-optional)
+## Paracord[*](#paracord "Sections indicated by an asterisk are required.")
 
 **Price:** $0.50 per ft (1 ft included in Base)
 
@@ -118,7 +117,7 @@ Techflex, also known as double-sleeving, is a second layer of sleeving which cov
 
 ###### | [previous section](#paracord) | [return to top](#table-of-contents) | [next section](#heatshrink) |
 
-## Heatshrink[*](#sections-indicated-with-an-asterisk-are-required-other-sections-are-optional)
+## Heatshrink[*](#heatshrink "Sections indicated by an asterisk are required.")
 
 **Price:** $0.00 (included in base)
 
@@ -132,7 +131,7 @@ Heatshrinks are shrinkable plastic tubes used around the cable ends and connecto
 
 ###### | [previous section](#techflex) | [return to top](#table-of-contents) | [next section](#host-connector) |
 
-## Host Connector[*](#sections-indicated-with-an-asterisk-are-required-other-sections-are-optional)
+## Host Connector[*](#host-connector "Sections indicated by an asterisk are required.")
 
 **Price:**
 
@@ -144,7 +143,7 @@ This connector plugs into your host, i.e. your computer.
 
 ###### | [previous section](#heatshrink) | [return to top](#table-of-contents) | [next section](#device-connector) |
 
-## Device Connector[*](#sections-indicated-with-an-asterisk-are-required-other-sections-are-optional)
+## Device Connector[*](#device-connector "Sections indicated by an asterisk are required.")
 
 **Price:**
 
@@ -248,7 +247,7 @@ Extra ends cover 5 in of wire and paracord, heatshrink, regular connector, and f
 
 All orders will be shipped in a custom [Summitbox](https://imgur.com/a/uRzErMs) to protect your cables in transit.
 
-Please keep in mind that shipping may be affected by unforeseen circumstances such as weather conditions or delays on carrier end.
+> Please keep in mind that shipping may be affected by unforeseen circumstances such as weather conditions or delays on carrier end.
 
 ###### | [previous section](#extra-ends) | [return to top](#table-of-contents) | [next section](#quality-control) |
 
@@ -262,14 +261,12 @@ If you're having an issue with your cable, please try the following steps:
 3. Ensure your cable is not being bent on either end.
 4. Update your USB drivers.
 
-Should you still face a problem, feel free to reach out to [support@summitcables.com](mailto:support@summitcables.com)
+Should you still face a problem, feel free to reach out to <support@summitcables.com>
 
 > All cables made by Summitcables are USB 2.0, hence they are not compatible with newer USB standards such as USB 3.0, USB 3.1, USB-PD, etc.
 
 ###### | [previous section](#shipping) | [return to top](#table-of-contents) | next section |
 
 ---
-
-###### * Sections indicated with an asterisk are required, other sections are optional.
 
 ###### © 2019 Summitcables
