@@ -57,7 +57,7 @@
 | Minimal                                                 | White              | White       | Black       | CE Raven Black   | White       |
 | Mint Dolch                                              | Mint Green         | Carbon      | Black       | CE Gunmetal Gray | N/A         |
 | Mizu                                                    | Baby Blue          | White       | Black       | CE Everest White | Black       |
-| [Modern Dolch[(https://www.instagram.com/p/B0ov9loHGwU) | Gray               | Gray        | White       | CE Everest White | Gray        |
+| [Modern Dolch](https://www.instagram.com/p/B0ov9loHGwU) | Gray               | Gray        | White       | CE Everest White | Gray        |
 | [Monochrome](https://www.instagram.com/p/B29cG8qH3Tl/)  | White              | Monochrome  | White       | CE Raven Black   | White       |
 | Muted                                                   | Gray               | Gray        | Black       | CE Everest White | Black       |
 | N6TU1-CR                                                | Grey               | White       | Black       | CE Beige         | Black       |
