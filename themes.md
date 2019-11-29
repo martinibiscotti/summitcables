@@ -10,7 +10,7 @@
 | ASCII                                                   | Gray               | Gray        | White       | CE Everest White | Gray        |
 | Banana                                                  | Banana             | White       | White       | CE Everest White | N/A         |
 | Bee                                                     | Baby Blue          | White       | Yellow      | CE Everest White | Yellow      |
-| [Bento](https://i.imgur.com/DyCPOId.jpg)                | White              | Red         | Blue        | CE Everest White | Blue        |
+| Bento                                                   | White              | Red         | Blue        | CE Everest White | Blue        |
 | Bliss                                                   | Pink Rose          | Beige       | Black       | CE Gunmetal Gray | N/A         |
 | Bubble                                                  | Pink Rose          | Beige       | White       | CE Sakura        | White       |
 | By the Sea                                              | Baby Blue          | White       | Red         | CE Everest White | Red         |
@@ -29,7 +29,7 @@
 | Denim                                                   | Gray               | White       | Brown       | CE Polar Blue    | Brown       |
 | DMG                                                     | Home Town Hero     | Purple      | Gray        | CE Royal Purple  | Gray        |
 | Dots                                                    | Black              | Carbon      | White       | CE Everest White | Yellow      |
-| [Dracula](https://www.instagram.com/p/B5bUMBLHdQG/)     | Canis              | Black Magic | Black       | CE Raven Black   | Purple      |
+| [Dracula](https://www.instagram.com/p/B5bhv1VHHD4/)     | Canis              | Black Magic | Black       | CE Raven Black   | Purple      |
 | Eclipse                                                 | Blue Royal         | Clear       | White       | CE Raven Black   | White       |
 | Eternal                                                 | Neon Acid Purple   | Dark Purple | Purple      | CE Royal Purple  | N/A         |
 | Firefly                                                 | Black              | Black       | Orange      | CE Blue Gray     | Purple      |
