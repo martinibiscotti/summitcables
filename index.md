@@ -41,7 +41,7 @@ We are currently taking orders using a Google Form which opens up every Saturday
 
 | Nov 30      | Dec 07        | Dec 14       |
 |:-----------:|:-------------:|:------------:|
-| LE Dracula  | LE Rose Gold  | TBA          |
+| [LE Dracula](https://www.instagram.com/p/B5bUMBLHdQG/)  | LE Rose Gold  | TBA          |
 | All options<br>w/ free accents | All options   | TBA          |
 | 50 units    | 50 units      | TBA          |
 
