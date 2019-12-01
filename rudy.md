@@ -22,15 +22,15 @@ Every order will come with a custom card and custom box design.
 ## Pictures
 
 ### Colorway #1 - Coiled
-![](1_1.jpg)
-![](1_2.jpg)
-![](1_3.jpg)
-![](1_4.jpg)
+![](rudy/1_1.jpg)
+![](rudy/1_2.jpg)
+![](rudy/1_3.jpg)
+![](rudy/1_4.jpg)
 
 ---
 
 ### Colorway #2 - Straight
-![](2_1.jpg)
-![](2_2.jpg)
-![](2_3.jpg)
-![](2_4.jpg)
+![](rudy/2_1.jpg)
+![](rudy/2_2.jpg)
+![](rudy/2_3.jpg)
+![](rudy/2_4.jpg)
