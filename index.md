@@ -41,11 +41,11 @@ We are currently taking orders using a Google Form which opens up every Saturday
 
 > Keep in mind that all times are subject to change. In the event of any changes, an announcement will be posted in the Summitcables Discord.
 
-| Nov 30      | Dec 07        | Dec 14       |
-|:-----------:|:-------------:|:------------:|
-| [LE Dracula](https://www.instagram.com/p/B5bUMBLHdQG/)  | LE Rose Gold  | TBA          |
-| All options<br>w/ free accents | All options   | TBA          |
-| 50 units    | 50 units      | TBA          |
+| Dec 07       | Dec 14        | Dec 21       |
+|:------------:|:-------------:|:------------:|
+| LE Rose Gold | LE Glacier    | LE Pastel    |
+| All options  | All options   | All options  |
+| 50 units     | 50 units      | 50 units     |
 
 # Terms of Service
 
