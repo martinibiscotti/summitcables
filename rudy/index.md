@@ -1,5 +1,3 @@
-# Summitcables x GMK Rudy
-
 Hello, welcome to our partnership, we are teaming up with Warren to bring you specialty GMK Rudy cables. I hope you enjoy this group buy.
 
 These are [SE Cables](https://summitcables.com/#detachable), meaning they are deadlocked into a detachable design.
@@ -22,10 +20,10 @@ Every order will come with a custom card and custom box design.
 
 ## Pictures
 
-![](https://summitcables.com/rudy/IMG_2943.jpg)
+![](IMG_2943.jpg)
 
-![](https://summitcables.com/rudy/IMG_2945.jpg)
+![](IMG_2945.jpg)
 
-![](https://summitcables.com/rudy/IMG_2949.jpg)
+![](IMG_2949.jpg)
 
-![](https://summitcables.com/rudy/IMG_2950.jpg)
+![](IMG_2950.jpg)
