@@ -2,7 +2,7 @@
 
 <h3 align="center"><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSeo0QlcXQGZ04rbr2beCFjirvoV9oHu9fybxKgiN8Xw7g0GPg/viewform">Summitcables x Rudy Order Form LIVE NOW</a></strong></h3>
 
-Hello, welcome to our partnership, we are teaming up with Warren to bring you specialty GMK Rudy cables. I hope you enjoy this group buy.
+Hello, welcome to our partnership, we are teaming up with Warren to bring you specialty GMK Rudy cables. :) I hope you enjoy this group buy.
 
 These are [SE Cables](https://summitcables.com/#detachable), meaning they are deadlocked into a detachable design.
 
@@ -16,11 +16,21 @@ Every order will come with a custom card and custom box design. The group buy wi
 * Reddit: <https://reddit.com/u/kbnote>
   * <https://reddit.com/u/summitcables>
 
+## Available Options
+
+* **SE Rudy #1 - Coiled**
+  * $60 - 6 in coil, 4 ft
+* **SE Rudy #1 - Straight**
+  * $50 - 6 ft
+* **SE Rudy #2 - Coiled**
+  * $60 - 6 in coil, 4 ft
+* **SE Rudy #2 - Straight**
+  * $50 - 6 ft
+
 ## Terms of Service
 
-* Group buy turnaround time will be around 3 months
+* Estimated Date of Delivery: June 2020
 * No refunds unless authorized (misorders, rent is due, etc.)
-* If you are unhappy with the theme I have done, email or contact me and we can work something out.
 
 ## Pictures
 
