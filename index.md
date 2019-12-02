@@ -8,6 +8,8 @@
   <a href="https://summitcables.com/calculator">Price Calculator</a>
   <br><br>
   <a href="https://summitcables.com/rudy">Summitcables x Rudy / SE Rudy</a>
+  <br><br>
+  <a href="https://summitcables.com/marshmallow">Summitcables x Thic Thock / SE Marshmallow</a>
 </h3>
 
 # Welcome
