@@ -6,7 +6,9 @@ Hello, welcome to our partnership, we are teaming up with Warren to bring you sp
 
 These are [SE Cables](https://summitcables.com/#detachable), meaning they are deadlocked into a detachable design.
 
-Every order will come with a custom card and custom box design. The group buy will run until the end of the month, or until 75 orders are received.
+Every order will come with a custom card and custom box design.
+
+The group buy will run until the end of the month, or until 75 orders are received.
 
 ## Links
 

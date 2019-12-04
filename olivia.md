@@ -18,7 +18,7 @@ We will only be taking 100 units! Once all spots are filled up, we will be closi
 
 ## Terms of Service
 
-* Estimated Date of Delivery: March/April 2020
+* Estimated Date of Delivery: March-April 2020
 * No refunds unless authorized (misorders, rent is due, etc.)
 
 ## Available Options
@@ -34,14 +34,14 @@ We will only be taking 100 units! Once all spots are filled up, we will be closi
 
 ## Pictures
 
-### Olivia Light
+### Olivia++ Light
 ![](olivia/1_1.jpg)
 ![](olivia/1_2.jpg)
 ![](olivia/1_3.jpg)
 
 ---
 
-### Olivia Dark
+### Olivia++ Dark
 ![](olivia/2_1.jpg)
 ![](olivia/2_2.jpg)
 ![](olivia/2_3.jpg)
