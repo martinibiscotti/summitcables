@@ -160,7 +160,7 @@ This connector plugs into your host, i.e. your computer.
 | Connector:     | Silver                   | Gold  |
 |:---------------|:------------------------:|:-----:|
 | USB Mini B     | $0.00 (included in base) | $0.75 |
-| USB Micro B    | $0.00 (included in base) | $0.75 |
+| USB Micro B    | $0.00 (included in base) |   -   |
 | USB Type C 2.0 | $2.00                    |   -   |
 
 This connector plugs into your device, i.e. your keyboard or phone.
