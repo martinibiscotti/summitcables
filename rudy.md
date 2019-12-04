@@ -1,6 +1,6 @@
 # SE Rudy
 
-<h2 align="center"><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSeo0QlcXQGZ04rbr2beCFjirvoV9oHu9fybxKgiN8Xw7g0GPg/viewform">Summitcables x Rudy Order Form</a></strong></h3>
+<h2 align="center"><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSeo0QlcXQGZ04rbr2beCFjirvoV9oHu9fybxKgiN8Xw7g0GPg/viewform">Summitcables x Rudy Order Form</a></strong></h2>
 
 Hello, welcome to our partnership, we are teaming up with Warren to bring you specialty GMK Rudy cables. I hope you enjoy this group buy. :)
 

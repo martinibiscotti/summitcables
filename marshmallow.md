@@ -1,6 +1,6 @@
 # SE Marshmallow
 
-<h2 align="center"><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLScXeaGVxPAlDnpC9aUkNRVmqdTOGtjWLpK3dhY6Z6gz3uqpuw/viewform">Summitcables x Thic Thock Order Form</a></strong></h3>
+<h2 align="center"><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLScXeaGVxPAlDnpC9aUkNRVmqdTOGtjWLpK3dhY6Z6gz3uqpuw/viewform">Summitcables x Thic Thock Order Form</a></strong></h2>
 
 Hello, welcome to our partnership, we are teaming up with Thic Thock to bring you specialty Marshmallow cables. I hope you enjoy this group buy. :)
 

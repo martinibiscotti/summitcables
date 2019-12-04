@@ -1,8 +1,8 @@
 # SE Olivia++
 
-<h2 align="center"><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSfGhsrhJo-Ju0uSHrAts8nUwHzG4UgaQtzNuGKaQMw1Kzc6Dg/closedform">Summitcables x Olivia++ Order Form</a></strong></h3>
+<h2 align="center"><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSfGhsrhJo-Ju0uSHrAts8nUwHzG4UgaQtzNuGKaQMw1Kzc6Dg/closedform">Summitcables x Olivia++ Order Form</a></strong></h2>
 
-Hello, welcome to our partnership, we are teaming up with Olivia to bring you specialty GMK Olivia++ cables. I hope you enjoy this group buy. :)
+Hihihi, welcome to our partnership, we are teaming up with Olivia to bring you specialty GMK Olivia++ cables. I hope you enjoy this group buy. :)
 
 These are [SE Cables](https://summitcables.com/#detachable), meaning they are deadlocked into a detachable design.
 
