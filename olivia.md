@@ -2,11 +2,11 @@
 
 <h2 align="center"><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSfGhsrhJo-Ju0uSHrAts8nUwHzG4UgaQtzNuGKaQMw1Kzc6Dg/closedform">Summitcables x Olivia++ Order Form</a></strong></h2>
 
-Hihihi, welcome to our partnership, we are teaming up with Olivia to bring you specialty GMK Olivia++ cables. I hope you enjoy this group buy. :)
+Hihihi! <2
 
-These are [SE Cables](https://summitcables.com/#detachable), meaning they are deadlocked into a detachable design.
+We at Summitcables are teaming up and collaborating with GMK Olivia++ to bring you GMK Olivia++ cables, including [custom Olivia themed boxes and cards](https://imgur.com/a/udsLcky)!
 
-Every order will come with a custom card and custom box design. The group buy will run until 100 orders are received.
+We will only be taking 100 units! Once all spots are filled up, we will be closing the form.
 
 ## Links
 
