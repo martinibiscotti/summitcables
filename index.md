@@ -3,17 +3,22 @@
 </p>
 
 <h3 align="center">
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform">Ordering Form / Opens 10:00 AM PT / 12-07-19</a>
-  <br><br>
-  <a href="https://summitcables.com/calculator">Price Calculator</a>
-  <br><br>
+  <a href="https://summitcables.com/olivia">Summitcables x Olivia / SE Olivia++</a>
+  <br>
   <a href="https://summitcables.com/rudy">Summitcables x Rudy / SE Rudy</a>
-  <br><br>
+  <br>
   <a href="https://summitcables.com/marshmallow">Summitcables x Thic Thock / SE Marshmallow</a>
 </h3>
 
-# Welcome
+---
 
+<h3 align="center">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform">Ordering Form / Opens 10:00 AM PT / 12-07-19</a>
+  <br>
+  <a href="https://summitcables.com/calculator">Price Calculator</a>
+</h3>
+
+# Welcome
 Hi, welcome to the Summit Catalog v2!
 
 I am based out of Oregon in the United States, and all of my Cable Drops will be in the Pacific time zone.  
@@ -24,7 +29,6 @@ Thanks!
 -Chris
 
 # Contact Us
-
 * Email: <support@summitcables.com>
 * Instagram: <https://instagram.com/summitcables>
 * Twitter: <https://twitter.com/summitcables>
@@ -38,7 +42,6 @@ Thanks!
 > United States   
 
 # Group Buy Schedule
-
 We are currently taking orders using a Google Form which opens up every Saturday at [10:00 AM PT](https://time.is/PT) located at [this link](https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform).
 
 > Keep in mind that all times are subject to change. In the event of any changes, an announcement will be posted in the Summitcables Discord.
@@ -50,13 +53,11 @@ We are currently taking orders using a Google Form which opens up every Saturday
 | 35 units           | 50 units      | 50 units     |
 
 # Terms of Service
-
 * 3-7 business day turnaround time
 * 14 day return policy
 * No refunds unless authorized (misorders, rent is due, etc.)
 
 # Table of Contents
-
 1. **[Base](#base)**
 2. **[Paracord](#paracord)**
 3. **[Techflex](#techflex)**
@@ -73,7 +74,6 @@ We are currently taking orders using a Google Form which opens up every Saturday
 13. **[Quality Control](#quality-control)**
 
 ## Base[*](#base "Sections indicated by an asterisk are required.")
-
 **Price:** $20.00
 
 Base covers 1 ft of wire and paracord, heatshrink, and silver USB Type A/Mini B/Micro B connectors.
@@ -81,7 +81,6 @@ Base covers 1 ft of wire and paracord, heatshrink, and silver USB Type A/Mini B/
 ###### | previous section | [return to top](#table-of-contents) | [next section](#paracord) |
 
 ## Paracord[*](#paracord "Sections indicated by an asterisk are required.")
-
 **Price:** $0.50 per ft (1 ft included in Base)
 
 Paracord is a lightweight nylon [kernmantle rope](https://en.wikipedia.org/wiki/Kernmantle_rope), which is used to sleeve the cable wire.
@@ -107,7 +106,6 @@ Paracord is a lightweight nylon [kernmantle rope](https://en.wikipedia.org/wiki/
 ###### | [previous section](#base) | [return to top](#table-of-contents) | [next section](#techflex) |
 
 ## Techflex
-
 **Price:** $1.00 per ft
 
 Techflex, also known as double-sleeving, is a second layer of sleeving which covers the paracord.
@@ -122,7 +120,6 @@ Techflex, also known as double-sleeving, is a second layer of sleeving which cov
 ###### | [previous section](#paracord) | [return to top](#table-of-contents) | [next section](#heatshrink) |
 
 ## Heatshrink[*](#heatshrink "Sections indicated by an asterisk are required.")
-
 **Price:** $0.00 (included in base)
 
 Heatshrinks are shrinkable plastic tubes used around the cable ends and connectors. They are also used in [accents](#accents).
@@ -136,7 +133,6 @@ Heatshrinks are shrinkable plastic tubes used around the cable ends and connecto
 ###### | [previous section](#techflex) | [return to top](#table-of-contents) | [next section](#host-connector) |
 
 ## Host Connector[*](#host-connector "Sections indicated by an asterisk are required.")
-
 **Price:**
 
 | Connector:     | Silver                   | Gold  |
@@ -148,7 +144,6 @@ This connector plugs into your host, i.e. your computer.
 ###### | [previous section](#heatshrink) | [return to top](#table-of-contents) | [next section](#device-connector) |
 
 ## Device Connector[*](#device-connector "Sections indicated by an asterisk are required.")
-
 **Price:**
 
 | Connector:     | Silver                   | Gold  |
@@ -162,7 +157,6 @@ This connector plugs into your device, i.e. your keyboard or phone.
 ###### | [previous section](#host-connector) | [return to top](#table-of-contents) | [next section](#coil) |
 
 ## Coil
-
 **Price:**
 
 | Coil | Length               | Price |
@@ -176,7 +170,6 @@ This connector plugs into your device, i.e. your keyboard or phone.
 ###### | [previous section](#device-connector) | [return to top](#table-of-contents) | [next section](#detachable) |
 
 ## Detachable
-
 **Price:**
 
 | Type:     | Silver | CE     | LE     | SE     |
@@ -196,7 +189,6 @@ All colored detachables are unique to and only obtainable through Summitcables.
 ###### | [previous section](#coil) | [return to top](#table-of-contents) | [next section](#gx16) |
 
 ### GX16
-
 | [![](gx16/silver.png)](https://i.imgur.com/iMuDc3j.jpg)<br/>**Silver**                       | [![](gx16/ce-beige.png)](https://i.imgur.com/Zb5fn5i.jpg)<br/>**CE Beige**                 | [![](gx16/ce-blue-gray.png)](https://i.imgur.com/yRd91Q6.jpg)<br/>**CE Blue Gray** | [![](gx16/ce-crimson-red.png)](https://i.imgur.com/NgIjoLw.jpg)<br/>**CE Crimson Red**       |
 |:-----------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|
 | [![](gx16/ce-everest-white.png)](https://i.imgur.com/NXytPiM.jpg)<br/>**CE Everest White**   | [![](gx16/ce-gunmetal-gray.png)](https://i.imgur.com/uPKLYKt.jpg)<br/>**CE Gunmetal Gray** | [![](gx16/ce-hot-pink.png)](https://i.imgur.com/RbmZHEV.jpg)<br/>**CE Hot Pink**   | [![](gx16/ce-polar-blue.png)](https://i.imgur.com/FPaMp4s.jpg)<br/>**CE Polar Blue**         |
@@ -208,7 +200,6 @@ All colored detachables are unique to and only obtainable through Summitcables.
 ###### | [previous section](#detachable) | [return to top](#table-of-contents) | [next section](#accents) |
 
 ## Accents
-
 **Price:** $3.50
 
 Accents are colored stripes made out of heatshrink that are attached to your detachable. Please refer to the [heatshrink section](#heatshrink) for accent color options.
@@ -220,7 +211,6 @@ Accents are colored stripes made out of heatshrink that are attached to your det
 ###### | [previous section](#gx16) | [return to top](#table-of-contents) | [next section](#themes) |
 
 ## Themes
-
 Themes are predetermined color combinations meant to match different keysets.
 
 Please refer to [this page](themes) for our list of available themes.
@@ -228,7 +218,6 @@ Please refer to [this page](themes) for our list of available themes.
 ###### | [previous section](#accents) | [return to top](#table-of-contents) | [next section](#extra-ends) |
 
 ## Extra Ends
-
 **Price:**
 
 | Detachable: | Silver  | Colored |
@@ -240,7 +229,6 @@ Extra ends cover 5 in of wire and paracord, heatshrink, regular connector, and f
 ###### | [previous section](#themes) | [return to top](#table-of-contents) | [next section](#shipping) |
 
 ## Shipping
-
 **Price:**
 
 | Shipping:        | USPS First Class | USPS First Class (>8oz) |
@@ -256,7 +244,6 @@ All orders will be shipped in a custom [Summitbox](https://imgur.com/a/uRzErMs) 
 ###### | [previous section](#extra-ends) | [return to top](#table-of-contents) | [next section](#quality-control) |
 
 ## Quality Control
-
 Each cable is checked by Chris before being shipped to ensure that it is in working condition.  
 If you're having an issue with your cable, please try the following steps:
 
