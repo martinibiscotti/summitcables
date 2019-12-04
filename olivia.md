@@ -4,11 +4,11 @@
 
 Hihihi! <2
 
-We at Summitcables are teaming up and collaborating with Olivia to bring you GMK Olivia++ cables, including [custom Olivia themed boxes and cards](https://imgur.com/a/udsLcky)!
+We at Summitcables are teaming up and collaborating with Olivia to bring you GMK Olivia++ cables, which will include [custom Olivia themed boxes and cards](https://imgur.com/a/udsLcky)!
 
 These are [SE Cables](https://summitcables.com/#detachable), meaning they are deadlocked into a detachable design.
 
-We will only be taking 100 units! Once all spots are filled up, we will be closing the form.
+The ordering form will open at [1:00 PM PST](https://time.is/PT) on December 4, 2019. We will only be taking 100 units! Once all spots are filled up, we will be closing the form.
 
 ## Links
 
