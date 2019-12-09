@@ -16,7 +16,7 @@
 ## LE Blackwidow
 - November 23rd, 2019
 
-![](gx16/le-blackwidow.jpeg)
+![](gx16/le-blackwidow.jpg)
 
 ## LE Noir
 - November 9th, 2019
@@ -27,7 +27,7 @@
 ## LE Nebula
 - November 2nd, 2019
 
-![](gx16/le-nebula.jpeg)
+![](gx16/le-nebula.jpg)
 
 ## LE Pink Rose Gold
 - November 2nd, 2019
