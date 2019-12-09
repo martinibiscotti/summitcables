@@ -13,7 +13,7 @@
 ---
 
 <h3 align="center">
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform">Ordering Form / Opens 10:00 AM PT / 12-07-19</a>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLScuu3xz-DcRyDlPHUsZB4gOGa9OdQlIf22b8dJHM9YKLoZjvQ/closedform">Ordering Form / Opens 10:00 AM PT / 12-14-19</a>
   <br>
   <a href="https://summitcables.com/calculator">Price Calculator</a>
 </h3>
