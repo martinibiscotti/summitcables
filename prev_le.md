@@ -8,7 +8,7 @@
 
 ## LE Glacier
 - December 7th, 2019
-- November 2nd, 6
+- November 2nd, 2019
 - October 5th, 2019
 
 ![](gx16/le-glacier.png)
