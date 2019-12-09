@@ -32,7 +32,7 @@
 ## LE Pink Rose Gold
 - November 2nd, 2019
 
-![](gx16/le-pink-rose-gold.png)
+![](gx16/le-pink-rose-gold.jpg)
 
 ## LE 9009
 - October 26th, 2019
