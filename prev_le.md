@@ -68,3 +68,4 @@ img src="gx16/full-res/le-noir.png" width=500px height=500px>
 - September 21st, 2019
 
 <img src="gx16/full-res/le-wild-purple.png" width=500px height=500px>
+ 
