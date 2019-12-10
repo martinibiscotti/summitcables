@@ -4,7 +4,7 @@
 - December 7th, 2019
 - November 30th, 2019
 
-![](gx16/full-res/le-dracula.png){:height="500px" width="500px"}
+![](gx16/full-res/le-dracula.png){:height="50%" width="50%"}
 
 ## LE Glacier
 - December 7th, 2019
