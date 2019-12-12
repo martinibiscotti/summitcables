@@ -49,11 +49,11 @@ We are currently taking orders using a Google Form which opens up every Saturday
 
 > Keep in mind that all times are subject to change. In the event of any changes, an announcement will be posted in the Summitcables Discord.
 
-| Dec 14         | Dec 21        | Dec 28       |
-|:--------------:|:-------------:|:------------:|
-| LE Pastel      | LE Nebula R2  | TBA          |
-| All options    | All options   | TBA          |
-| 50 units       | 50 units      | TBA          |
+| Dec 14         | Dec 21       | Dec 28       |
+|:--------------:|:------------:|:------------:|
+| LE Supernova   | LE Nebula R2 | TBA          |
+| All options    | All options  | TBA          |
+| 50 units       | 50 units     | TBA          |
 
 # Terms of Service
 
