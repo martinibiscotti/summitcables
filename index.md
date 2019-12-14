@@ -51,7 +51,7 @@ We are currently taking orders using a Google Form which opens up every Saturday
 
 | Dec 14         | Dec 21       | Dec 28       |
 |:--------------:|:------------:|:------------:|
-| LE Supernova   | LE Nebula R2 | TBA          |
+| LE Supernova<br>LE Dracula   | LE Nebula R2 | TBA          |
 | All options    | All options  | TBA          |
 | 50 units       | 50 units     | TBA          |
 
